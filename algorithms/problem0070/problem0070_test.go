@@ -2,7 +2,7 @@ package problem0070
 
 import "testing"
 
-func TestProblem0070(t *testing.T) {
+func TestProblem(t *testing.T) {
 	tests := []struct {
 		input, output int
 	}{

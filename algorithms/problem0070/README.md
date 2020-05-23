@@ -23,7 +23,7 @@ Explanation: There are three ways to climb to the top.
 2. 1 step + 2 steps
 3. 2 steps + 1 stepp
 ```
-## Solution
+## Solutions
 ### Solution 1: Dynamic Programming
 第 ii 阶可以由以下两种方法得到：
 - 在第 (i-1)阶后向上爬1阶。

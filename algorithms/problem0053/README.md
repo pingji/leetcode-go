@@ -13,7 +13,7 @@ Follow up:
 
 If you have figured out the O(n) solution, try coding another solution using the divide and conquer approach, which is more subtle.
 ```
-## Solution
+## Solutions
 ### Solution 1: Dynamic Programming
 若前一个元素的sum 大于0，则将它加到当前元素上
 sum[0] = arr[0]
