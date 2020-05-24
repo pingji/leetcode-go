@@ -1,7 +1,7 @@
-package problem0070
+package leetcode
 
 func climbStairs(n int) int {
-    if n == 1 {
+	if n == 1 {
 		return 1
 	}
 	dp := make([]int, n+1)

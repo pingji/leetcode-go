@@ -1,4 +1,4 @@
-package problem0121
+package leetcode
 
 func maxProfit(prices []int) int {
 	if len(prices) == 0 {
