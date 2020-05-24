@@ -24,5 +24,6 @@ Explanation: Rob house 1 (money = 2), rob house 3 (money = 9) and rob house 5 (m
 - yes：dp[i] = dp[i-2] + arr[i]
 - no: dp[i] = dp[i-1]
 
-
+```
 dp[i] = max((dp[i-2] + arr[i]), dp[i-1])
+```

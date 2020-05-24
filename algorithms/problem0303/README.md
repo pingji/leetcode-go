@@ -16,4 +16,7 @@ There are many calls to sumRange function.
 ## Solutions
 ### Solution 1: Dynamic Programming
 由于sumRange 需要多次调用，最好的办法就是做一个缓存保存 sumRange(0,i)
+```
 sumRange(i,j) = sumRange(0,j) - sumRange(0.i-1)
+```
+另外，测试用例需要考虑 nums为nil的情况
