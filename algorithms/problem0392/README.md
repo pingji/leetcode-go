@@ -1,4 +1,4 @@
-# [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/)
+# [392. Is Subsequence](https://leetcode-cn.com/problems/is-subsequence/)
 ## Problem
 ```
 Given a string s and a string t, check if s is subsequence of t.
@@ -31,3 +31,7 @@ Both strings consists only of lowercase characters.
 ```
 ## Solutions
 ### Solution 1: Dynamic Programming
+解题思路
+1. 两个指针同时指向两个字符串的头部
+2. 开始移动，如果当前s的索引字节和t 当前索引字节相同 s索引向后移动
+3. 而t不管找没有找到需要移动

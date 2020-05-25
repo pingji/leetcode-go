@@ -1,4 +1,4 @@
-# [303. Range Sum Query - Immutabler](https://leetcode.com/problems/range-sum-query-immutable/)
+# [303. Range Sum Query - Immutabler](https://leetcode-cn.com/problems/range-sum-query-immutable/)
 ## Problem
 ```
 Given an integer array nums, find the sum of the elements between indices i and j (i ≤ j), inclusive.
