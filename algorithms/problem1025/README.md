@@ -31,3 +31,9 @@ Note:
 ```
 ## Solutions
 ### Solution 1: Dynamic Programming
+为了便于计算，数组中需要添加最后到达的那一级台阶，cost为0。到达最后一级台阶就是到达终点。dp[i]为到达 第i级台阶需要的最小cost
+```
+dp[0] = cost[0]
+dp[1] = cost[1]
+dp[i] = min(dp[n-1], dp[n-2]) + cost[i]
+```

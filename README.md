@@ -10,7 +10,7 @@
 | 198 | House Robber | Easy | Solved |
 | 303 | Range Sum Query - Immutable | Easy | Solved |
 | 392 | Is Subsequence | Easy | Solved |
-| 746 | Min Cost Climbing Stairs | Easy | Todo |
+| 746 | Min Cost Climbing Stairs | Easy | Solved |
 | 1025 | Divisor Game | Easy | Todo |
 
 

@@ -1,4 +1,4 @@
-# [746. Min Cost Climbing Stairse](https://leetcode.com/problems/min-cost-climbing-stairs/)
+# [746. Min Cost Climbing Stairse](https://leetcode-cn.com/problems/min-cost-climbing-stairs/)
 ## Problem
 ```
 On a staircase, the i-th step has some non-negative cost cost[i] assigned (0 indexed).
