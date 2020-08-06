@@ -16,7 +16,12 @@ Note:
 You may assume that you have an infinite number of each kind of coin.
 ```
 ## Solutions
-### Solution 1: Dynamic Programming
+### Solution 1: Dynamic Programming（自上而下）
 dp[i]表示为组成金额 i 所需最少的硬币数量，转移方程为：
 $$ dp(i) = \min_{j=0...n-1}dp(i−c_{j})+1 $$
 其中 cj 代表的是第 j 枚硬币的面值
+
+### Solution 2: Dynamic Programming（自下而上）
+
+## References
+- [动态规划LeetCode322零钱兑换](https://www.cnblogs.com/hengzhezou/p/11042906.html)

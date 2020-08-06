@@ -1,13 +1,27 @@
 # leetcode-go
 
 # Problems
+
 ## Array
+
 | No | Title | Difficulty | Status |
 | --: | -- | -- | -- |
 | 11 | Container With Most Water | Medium | Solved |
 | 26 | Remove Duplicates from Sorted Array | Easy | Solved |
 
+## String
+
+## Tree
+
+## LinkedList
+
+## Binary Search
+
+## Stack && PriorityQueue
+
+
 ## Dynamic Programming
+
 | No | Title | Difficulty | Status |
 | --: | -- | -- | -- |
 | 53 | Maximum Subarray | Easy | Solved |
@@ -20,4 +34,4 @@
 | 746 | Min Cost Climbing Stairs | Easy | Solved |
 | 1025 | Divisor Game | Easy | Todo |
 
-
+## Backtracking
