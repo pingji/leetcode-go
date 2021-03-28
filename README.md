@@ -42,6 +42,6 @@
 | 336 | Palindrome Pairs | 回文对 | Medium | Todo |
 | 421 | Maximum XOR of Two Numbers in an Array | 数组中两个数的最大异或值 | Medium | Todo |
 | 648 | Replace Words | 单词替换 | Medium | Todo |
-| 677 | Map Sum Pairs | 键值映射 | Medium | Todo |
+| 677 | Map Sum Pairs | 键值映射 | Medium | Solved |
 | 820 | Short Encoding of Words | 单词的压缩编码 | Medium | Todo |
 
