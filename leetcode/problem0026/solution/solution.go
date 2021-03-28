@@ -1,4 +1,4 @@
-package leetcode
+package solution
 
 func removeDuplicates(nums []int) int {
 	if nums == nil {

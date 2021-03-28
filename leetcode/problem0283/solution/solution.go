@@ -1,4 +1,4 @@
-package leetcode
+package solution
 
 func moveZeroes(nums []int) {
 	if nums == nil {

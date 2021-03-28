@@ -1,4 +1,4 @@
-package leetcode
+package solution
 
 func rob(nums []int) int {
 	n := len(nums)

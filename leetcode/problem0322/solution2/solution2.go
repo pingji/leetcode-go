@@ -1,6 +1,5 @@
-package solution
+package solution2
 
-// 自下而上
 func coinChange(coins []int, amount int) int {
 	dp := make([]int, amount+1)
 	for i := range dp {

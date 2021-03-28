@@ -1,8 +1,8 @@
-package leetcode
+package solution
 
 func minCostClimbingStairs(cost []int) int {
 	n := len(cost)
-    dp := make([]int, n+1)
+	dp := make([]int, n+1)
 	dp[0], dp[1] = cost[0], cost[1]
 	for i := 2; i <= n; i++ {
 		if i != n {
@@ -14,7 +14,7 @@ func minCostClimbingStairs(cost []int) int {
 	return dp[n]
 }
 
-func min(a, b int) int{
+func min(a, b int) int {
 	if a > b {
 		return b
 	}

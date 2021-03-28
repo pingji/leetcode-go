@@ -1,23 +1,27 @@
-package leetcode
+package solution2
 
 type Trie struct {
 	end    bool
-	childs [26]*Trie
+	childs map[rune]*Trie
 }
 
 /** Initialize your data structure here. */
 func Constructor() Trie {
-	return Trie{}
+	return Trie{
+		end:    false,
+		childs: make(map[rune]*Trie),
+	}
 }
 
 /** Inserts a word into the trie. */
 func (this *Trie) Insert(word string) {
 	cur := this
 	for _, v := range word {
-		if cur.childs[v-'a'] == nil {
-			cur.childs[v-'a'] = new(Trie)
+		if _, ok := cur.childs[v]; !ok {
+			trie := Constructor()
+			cur.childs[v] = &trie
 		}
-		cur = cur.childs[v-'a']
+		cur = cur.childs[v]
 	}
 	cur.end = true
 }
@@ -26,10 +30,10 @@ func (this *Trie) Insert(word string) {
 func (this *Trie) Search(word string) bool {
 	cur := this
 	for _, v := range word {
-		if cur.childs[v-'a'] == nil {
+		if _, ok := cur.childs[v]; !ok {
 			return false
 		}
-		cur = cur.childs[v-'a']
+		cur = cur.childs[v]
 	}
 	return cur.end
 }
@@ -38,10 +42,10 @@ func (this *Trie) Search(word string) bool {
 func (this *Trie) StartsWith(prefix string) bool {
 	cur := this
 	for _, v := range prefix {
-		if cur.childs[v-'a'] == nil {
+		if _, ok := cur.childs[v]; !ok {
 			return false
 		}
-		cur = cur.childs[v-'a']
+		cur = cur.childs[v]
 	}
 	return true
 }

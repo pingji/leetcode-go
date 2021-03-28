@@ -1,4 +1,4 @@
-package leetcode
+package solution
 
 func climbStairs(n int) int {
 	if n == 1 {

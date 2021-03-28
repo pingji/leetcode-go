@@ -1,11 +1,11 @@
-package leetcode
+package solution
 
 import "testing"
 
 func TestProblem(t *testing.T) {
 	tests := []struct {
-		s  string
-		t string
+		s      string
+		t      string
 		output bool
 	}{
 		{"", "ahbgdc", true},

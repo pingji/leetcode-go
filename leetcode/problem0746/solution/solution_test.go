@@ -1,21 +1,17 @@
-package leetcode
+package solution
 
-import (
-	"testing"
-)
+import "testing"
 
-func TestProblem(t *testing.T) {
+func TestSolution(t *testing.T) {
 	tests := []struct {
 		input  []int
 		output int
 	}{
-		{[]int{-2, 1, -3, 4, -1, 2, 1, -5, 4}, 6},
-		{[]int{2, 7, 9, 3, 1}, 22},
-		{[]int{}, 0},
-		{[]int{-1, -2}, -1},
+		{[]int{10, 15, 20}, 15},
+		{[]int{1, 100, 1, 1, 1, 100, 1, 1, 100, 1}, 6},
 	}
 	for _, test := range tests {
-		output := maxSubArray(test.input)
+		output := minCostClimbingStairs(test.input)
 		t.Logf("input: %v, output %v, expected: %v", test.input, output, test.output)
 		if output != test.output {
 			t.Errorf("Failed")

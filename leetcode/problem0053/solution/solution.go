@@ -1,4 +1,4 @@
-package leetcode
+package solution
 
 // solution-1: DP
 func maxSubArray(nums []int) int {
