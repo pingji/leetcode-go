@@ -9,6 +9,9 @@
 | 26 | Remove Duplicates from Sorted Array | 删除有序数组中的重复项 | Easy | Solved |
 
 ## String
+| No | Title | 题名 | Difficulty | Status |
+| --: | -- | -- | --| -- |
+| 151 | Reverse Words in a String | 翻转字符串里的单词 | Medium | Todo |
 
 ## Tree
 
