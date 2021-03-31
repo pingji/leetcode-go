@@ -7,10 +7,10 @@ func TestProblem(t *testing.T) {
 		input, output string
 	}{
 		{"the sky is blue", "blue is sky the"},
-		// {"  hello world  ", "world hello"},
-		// {"a good   example", "example good a"},
-		// {"  Bob    Loves  Alice   ", "Alice Loves Bob"},
-		// {"Alice does not even like bob", "bob like even not does Alice"},
+		{"  hello world  ", "world hello"},
+		{"a good   example", "example good a"},
+		{"  Bob    Loves  Alice   ", "Alice Loves Bob"},
+		{"Alice does not even like bob", "bob like even not does Alice"},
 	}
 	for index, test := range tests {
 		output := reverseWords(test.input)

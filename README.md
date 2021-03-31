@@ -11,7 +11,7 @@
 ## String
 | No | Title | 题名 | Difficulty | Status |
 | --: | -- | -- | --| -- |
-| 151 | Reverse Words in a String | 翻转字符串里的单词 | Medium | Todo |
+| 151 | Reverse Words in a String | 翻转字符串里的单词 | Medium | Solved |
 
 ## Tree
 
