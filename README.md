@@ -35,6 +35,10 @@
 | 1025 | Divisor Game | 除数博弈 | Easy | Todo |
 
 ## Backtracking
+| No | Title | 题名 | Difficulty | Status |
+| --: | -- | -- | -- | -- |
+| 46 | Permutations | 全排列 | Medium | Todo |
+
 
 ## Trie 字典树
 | No | Title | 题名 | Difficulty | Status |
