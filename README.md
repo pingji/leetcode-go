@@ -37,7 +37,8 @@
 ## Backtracking
 | No | Title | 题名 | Difficulty | Status |
 | --: | -- | -- | -- | -- |
-| 46 | Permutations | 全排列 | Medium | Todo |
+| 46 | Permutations | 全排列 | Medium | Solved |
+| 51 | N-Queens | N 皇后 | Hard | Solved |
 
 
 ## Trie 字典树

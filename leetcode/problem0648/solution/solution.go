@@ -1,5 +1,5 @@
 package solution
 
-func replaceWords(dictionary []string, sentence string) string {
-
-}
+// func replaceWords(dictionary []string, sentence string) string {
+// 	return ""
+// }
