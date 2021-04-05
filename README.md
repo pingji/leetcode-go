@@ -37,8 +37,12 @@
 ## Backtracking
 | No | Title | 题名 | Difficulty | Status |
 | --: | -- | -- | -- | -- |
+| 22 | Generate Parentheses | 括号生成 | Medium | Todo |
+| 37 | Sudoku Solver | 解数独 | Hard | Todo |
 | 46 | Permutations | 全排列 | Medium | Solved |
 | 51 | N-Queens | N 皇后 | Hard | Solved |
+| 77 | Combinations | 组合 | Medium | Todo |
+| 78 | Subsets | 子集 | Medium | Todo |
 
 
 ## Trie 字典树
