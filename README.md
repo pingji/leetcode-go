@@ -40,9 +40,12 @@
 | 22 | Generate Parentheses | 括号生成 | Medium | Todo |
 | 37 | Sudoku Solver | 解数独 | Hard | Todo |
 | 46 | Permutations | 全排列 | Medium | Solved |
+| 47 | Permutations II | 全排列 II | Medium | Todo |
 | 51 | N-Queens | N 皇后 | Hard | Solved |
-| 77 | Combinations | 组合 | Medium | Todo |
-| 78 | Subsets | 子集 | Medium | Todo |
+| 52 | N-Queens II | N 皇后 II | Hard | Todo |
+| 77 | Combinations | 组合 | Medium | Solved |
+| 78 | Subsets | 子集 | Medium | Solved |
+| 90 | Subsets II | 子集 II | Medium | Solved |
 
 
 ## Trie 字典树
