@@ -13,7 +13,11 @@
 | --: | -- | -- | --| -- |
 | 151 | Reverse Words in a String | 翻转字符串里的单词 | Medium | Solved |
 
-## Tree
+## Tree 树
+| No | Title | 题名 | Difficulty | Status |
+| --: | -- | -- | --| -- |
+| 114 | Flatten Binary Tree to Linked List | 二叉树展开为链表 | Medium | Solved |
+| 226 | Invert Binary Tree | 翻转二叉树 | Easy | Solved |
 
 ## LinkedList
 
@@ -34,7 +38,7 @@
 | 746 | Min Cost Climbing Stairs | 使用最小花费爬楼梯 | Easy | Solved |
 | 1025 | Divisor Game | 除数博弈 | Easy | Todo |
 
-## Backtracking
+## Backtracking 回溯
 | No | Title | 题名 | Difficulty | Status |
 | --: | -- | -- | -- | -- |
 | 22 | Generate Parentheses | 括号生成 | Medium | Todo |
