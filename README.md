@@ -26,7 +26,8 @@
 | No | Title | 题名 | Difficulty | Status |
 | --: | -- | -- | --| -- |
 | 35 | Search Insert Position | 搜索插入位置 | Easy | Solved |
-| 69 | Sqrt(x) | x 的平方根 | Easy | Todo |
+| 50 | Pow(x, n) | Pow(x, n) | Medium | Solved |
+| 69 | Sqrt(x) | x 的平方根 | Easy | Solved |
 | 167 | Two Sum II - Input array is sorted | 两数之和 II - 输入有序数组 | Easy | Todo |
 | 270 | Closest Binary Search Tree Value | 最接近的二叉搜索树值 | Easy | Todo |
 | 278 | First Bad Version | 第一个错误的版本 | Easy | Todo |

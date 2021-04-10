@@ -8,5 +8,5 @@ type Node struct {
 }
 
 func connect(root *Node) *Node {
-
+	return nil
 }
