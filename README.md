@@ -17,11 +17,22 @@
 | No | Title | 题名 | Difficulty | Status |
 | --: | -- | -- | --| -- |
 | 114 | Flatten Binary Tree to Linked List | 二叉树展开为链表 | Medium | Solved |
+| 116 | Populating Next Right Pointers in Each Node | 填充每个节点的下一个右侧节点指针 | Medium | Todo |
 | 226 | Invert Binary Tree | 翻转二叉树 | Easy | Solved |
 
 ## LinkedList
 
 ## Binary Search
+| No | Title | 题名 | Difficulty | Status |
+| --: | -- | -- | --| -- |
+| 35 | Search Insert Position | 搜索插入位置 | Easy | Solved |
+| 69 | Sqrt(x) | x 的平方根 | Easy | Todo |
+| 167 | Two Sum II - Input array is sorted | 两数之和 II - 输入有序数组 | Easy | Todo |
+| 270 | Closest Binary Search Tree Value | 最接近的二叉搜索树值 | Easy | Todo |
+| 278 | First Bad Version | 第一个错误的版本 | Easy | Todo |
+| 349 | Intersection of Two Arrays | 两个数组的交集 | Easy | Todo |
+| 350 | Intersection of Two Arrays II | 两个数组的交集 II | Easy | Todo |
+
 
 ## Stack && PriorityQueue
 
