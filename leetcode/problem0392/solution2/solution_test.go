@@ -11,6 +11,7 @@ func TestProblem(t *testing.T) {
 		{"", "ahbgdc", true},
 		{"abc", "ahbgdc", true},
 		{"axc", "ahbgdc", false},
+		{"aaaaaa", "bbaaaa", false},
 	}
 	for index, test := range tests {
 		output := isSubsequence(test.s, test.t)

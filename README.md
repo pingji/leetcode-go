@@ -13,6 +13,11 @@
 | --: | -- | -- | --| -- |
 | 151 | Reverse Words in a String | 翻转字符串里的单词 | Medium | Solved |
 
+## Two Pointers 双指针
+| No | Title | 题名 | Difficulty | Status |
+| --: | -- | -- | --| -- |
+| 392 | Is Subsequence | 判断子序列 | Easy | Solved |
+
 ## Tree 树
 | No | Title | 题名 | Difficulty | Status |
 | --: | -- | -- | --| -- |
@@ -33,7 +38,8 @@
 | 278 | First Bad Version | 第一个错误的版本 | Easy | Todo |
 | 349 | Intersection of Two Arrays | 两个数组的交集 | Easy | Todo |
 | 350 | Intersection of Two Arrays II | 两个数组的交集 II | Easy | Todo |
-
+| 392 | Is Subsequence | 判断子序列 | Easy | Solved |
+| 704 | Binary Search | 二分查找 | Easy | Solved |
 
 ## Stack && PriorityQueue
 
