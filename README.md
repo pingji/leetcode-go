@@ -82,3 +82,8 @@
 | 677 | Map Sum Pairs | 键值映射 | Medium | Solved |
 | 820 | Short Encoding of Words | 单词的压缩编码 | Medium | Todo |
 
+
+## Design 设计
+| No | Title | 题名 | Difficulty | Status |
+| --: | -- | -- | -- | -- |
+| 146 | LRU Cache | LRU 缓存机制 | Medium | Solved |
