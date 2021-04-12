@@ -26,6 +26,16 @@
 | 226 | Invert Binary Tree | 翻转二叉树 | Easy | Solved |
 
 ## LinkedList
+| No | Title | 题名 | Difficulty | Status |
+| --: | -- | -- | --| -- |
+| 2 | Add Two Numbers | 两数相加 | Medium | Todo |
+| 82 | Remove Duplicates from Sorted List II | 删除排序链表中的重复元素 II | Medium | Todo |
+| 83 | Remove Duplicates from Sorted List | 删除排序链表中的重复元素 | Easy | Todo |
+| 86 | Partition List | 分隔链表 | Medium | Todo |
+| 92 | Reverse Linked List II | 反转链表 II | Medium | Todo |
+| 206 | Reverse Linked List | 反转链表 | Easy | Todo |
+| 328 | Odd Even Linked List | 奇偶链表 | Medium | Todo |
+| 445 | Add Two Numbers II | 两数相加 II | Medium | Todo |
 
 ## Binary Search
 | No | Title | 题名 | Difficulty | Status |
@@ -87,3 +97,4 @@
 | No | Title | 题名 | Difficulty | Status |
 | --: | -- | -- | -- | -- |
 | 146 | LRU Cache | LRU 缓存机制 | Medium | Solved |
+| 460 | LFU Cache | LFU 缓存机制 | Hard | Todo |
