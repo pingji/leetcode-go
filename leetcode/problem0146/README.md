@@ -1,5 +1,7 @@
-## Solutions
-### Solution 1
+# Solutions
+
+## Solution 1
+
 哈希表 + 双向链表
 
 - 对于 get 操作，首先判断 key 是否存在：
