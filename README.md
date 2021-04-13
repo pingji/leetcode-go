@@ -32,7 +32,7 @@
 |   82 | Remove Duplicates from Sorted List II | 删除排序链表中的重复元素 II | Medium     | Todo   |
 |   83 | Remove Duplicates from Sorted List    | 删除排序链表中的重复元素    | Easy       | Todo   |
 |   86 | Partition List                        | 分隔链表                    | Medium     | Todo   |
-|   92 | Reverse Linked List II                | 反转链表 II                 | Medium     | Todo   |
+|   92 | Reverse Linked List II                | 反转链表 II                 | Medium     | Solved   |
 |  206 | Reverse Linked List                   | 反转链表                    | Easy       | Solved |
 |  328 | Odd Even Linked List                  | 奇偶链表                    | Medium     | Todo   |
 |  445 | Add Two Numbers II                    | 两数相加 II                 | Medium     | Todo   |
