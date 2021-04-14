@@ -29,8 +29,8 @@
 |   No | Title                                 | 题名                        | Difficulty | Status |
 | ---: | ------------------------------------- | --------------------------- | ---------- | ------ |
 |    2 | Add Two Numbers                       | 两数相加                    | Medium     | Todo   |
-|   82 | Remove Duplicates from Sorted List II | 删除排序链表中的重复元素 II  | Medium     | Todo   |
-|   83 | Remove Duplicates from Sorted List    | 删除排序链表中的重复元素     | Easy       | Todo   |
+|   82 | Remove Duplicates from Sorted List II | 删除排序链表中的重复元素 II  | Medium     | Solved |
+|   83 | Remove Duplicates from Sorted List    | 删除排序链表中的重复元素     | Easy       | Solved |
 |   86 | Partition List                        | 分隔链表                    | Medium     | Todo   |
 |   92 | Reverse Linked List II                | 反转链表 II                 | Medium     | Solved |
 |  203 | Remove Linked List Elements           | 移除链表元素                | Easy       | Solved |
