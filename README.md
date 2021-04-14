@@ -22,17 +22,18 @@
 |   No | Title                                       | 题名                             | Difficulty | Status |
 | ---: | ------------------------------------------- | -------------------------------- | ---------- | ------ |
 |  114 | Flatten Binary Tree to Linked List          | 二叉树展开为链表                 | Medium     | Solved |
-|  116 | Populating Next Right Pointers in Each Node | 填充每个节点的下一个右侧节点指针 | Medium     | Todo   |
+|  116 | Populating Next Right Pointers in Each Node | 填充每个节点的下一个右侧节点指针 | Medium      | Todo   |
 |  226 | Invert Binary Tree                          | 翻转二叉树                       | Easy       | Solved |
 
 ## LinkedList
 |   No | Title                                 | 题名                        | Difficulty | Status |
 | ---: | ------------------------------------- | --------------------------- | ---------- | ------ |
 |    2 | Add Two Numbers                       | 两数相加                    | Medium     | Todo   |
-|   82 | Remove Duplicates from Sorted List II | 删除排序链表中的重复元素 II | Medium     | Todo   |
-|   83 | Remove Duplicates from Sorted List    | 删除排序链表中的重复元素    | Easy       | Todo   |
+|   82 | Remove Duplicates from Sorted List II | 删除排序链表中的重复元素 II  | Medium     | Todo   |
+|   83 | Remove Duplicates from Sorted List    | 删除排序链表中的重复元素     | Easy       | Todo   |
 |   86 | Partition List                        | 分隔链表                    | Medium     | Todo   |
-|   92 | Reverse Linked List II                | 反转链表 II                 | Medium     | Solved   |
+|   92 | Reverse Linked List II                | 反转链表 II                 | Medium     | Solved |
+|  203 | Remove Linked List Elements           | 移除链表元素                | Easy       | Solved |
 |  206 | Reverse Linked List                   | 反转链表                    | Easy       | Solved |
 |  328 | Odd Even Linked List                  | 奇偶链表                    | Medium     | Todo   |
 |  445 | Add Two Numbers II                    | 两数相加 II                 | Medium     | Todo   |
@@ -40,16 +41,16 @@
 ## Binary Search
 |   No | Title                              | 题名                       | Difficulty | Status |
 | ---: | ---------------------------------- | -------------------------- | ---------- | ------ |
-|   35 | Search Insert Position             | 搜索插入位置               | Easy       | Solved |
+|   35 | Search Insert Position             | 搜索插入位置                | Easy       | Solved |
 |   50 | Pow(x, n)                          | Pow(x, n)                  | Medium     | Solved |
 |   69 | Sqrt(x)                            | x 的平方根                 | Easy       | Solved |
-|  167 | Two Sum II - Input array is sorted | 两数之和 II - 输入有序数组 | Easy       | Todo   |
-|  270 | Closest Binary Search Tree Value   | 最接近的二叉搜索树值       | Easy       | Todo   |
-|  278 | First Bad Version                  | 第一个错误的版本           | Easy       | Todo   |
-|  349 | Intersection of Two Arrays         | 两个数组的交集             | Easy       | Todo   |
-|  350 | Intersection of Two Arrays II      | 两个数组的交集 II          | Easy       | Todo   |
-|  392 | Is Subsequence                     | 判断子序列                 | Easy       | Solved |
-|  704 | Binary Search                      | 二分查找                   | Easy       | Solved |
+|  167 | Two Sum II - Input array is sorted | 两数之和 II - 输入有序数组  | Easy       | Todo   |
+|  270 | Closest Binary Search Tree Value   | 最接近的二叉搜索树值        | Easy       | Todo   |
+|  278 | First Bad Version                  | 第一个错误的版本            | Easy       | Todo   |
+|  349 | Intersection of Two Arrays         | 两个数组的交集              | Easy       | Todo   |
+|  350 | Intersection of Two Arrays II      | 两个数组的交集 II           | Easy       | Todo   |
+|  392 | Is Subsequence                     | 判断子序列                  | Easy       | Solved |
+|  704 | Binary Search                      | 二分查找                    | Easy       | Solved |
 
 ## Stack && PriorityQueue
 |   No | Title | 题名 | Difficulty | Status |
