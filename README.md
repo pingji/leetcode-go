@@ -5,18 +5,18 @@
 ## Array 数组
 |   No | Title                               | 题名                   | Difficulty | Status |
 | ---: | ----------------------------------- | ---------------------- | ---------- | ------ |
-|   11 | Container With Most Water           | 盛最多水的容器         | Medium     | Solved |
-|   26 | Remove Duplicates from Sorted Array | 删除有序数组中的重复项 | Easy       | Solved |
+|   11 | Container With Most Water           | 盛最多水的容器          | Medium     | Solved |
+|   26 | Remove Duplicates from Sorted Array | 删除有序数组中的重复项  | Easy       | Solved |
 
 ## String
 |   No | Title                     | 题名               | Difficulty | Status |
 | ---: | ------------------------- | ------------------ | ---------- | ------ |
-|  151 | Reverse Words in a String | 翻转字符串里的单词 | Medium     | Solved |
+|  151 | Reverse Words in a String | 翻转字符串里的单词  | Medium     | Solved |
 
 ## Two Pointers 双指针
 |   No | Title          | 题名       | Difficulty | Status |
 | ---: | -------------- | ---------- | ---------- | ------ |
-|  392 | Is Subsequence | 判断子序列 | Easy       | Solved |
+|  392 | Is Subsequence | 判断子序列  | Easy       | Solved |
 
 ## Tree 树
 |   No | Title                                       | 题名                             | Difficulty | Status |
@@ -29,12 +29,23 @@
 |   No | Title                                 | 题名                        | Difficulty | Status |
 | ---: | ------------------------------------- | --------------------------- | ---------- | ------ |
 |    2 | Add Two Numbers                       | 两数相加                    | Medium     | Todo   |
-|   82 | Remove Duplicates from Sorted List II | 删除排序链表中的重复元素 II  | Medium     | Solved |
+|   19 | Remove Nth Node From End of List      | 删除链表的倒数第 N 个        | Medium     | Todo   |
+|   21 | Merge Two Sorted Lists                | 合并两个有序链表             | Easy       | Todo   |
+|   23 | Merge k Sorted Lists                  | 合并K个升序链表              | Hard       | Todo   |
+|   24 | Swap Nodes in Pairs                   | 两两交换链表中的节点         | Medium     | Todo   |
+|   24 | Swap Nodes in Pairs                   | 两两交换链表中的节点         | Medium     | Todo   |
+|   25 | Reverse Nodes in k-Group              | K 个一组翻转链表             | Medium     | Todo  |
+|   61 | Rotate List                           | 旋转链表                    | Medium     | Todo  |
 |   83 | Remove Duplicates from Sorted List    | 删除排序链表中的重复元素     | Easy       | Solved |
 |   86 | Partition List                        | 分隔链表                    | Medium     | Todo   |
 |   92 | Reverse Linked List II                | 反转链表 II                 | Medium     | Solved |
+|  143 | Reorder List                          | 重排链表                    | Medium     | Todo   |
+|  147 | Insertion Sort List                   | 对链表进行插入排序           | Medium     | Todo   |
+|  148 | Sort List                             | 排序链表                    | Medium     | Todo   |
 |  203 | Remove Linked List Elements           | 移除链表元素                | Easy       | Solved |
 |  206 | Reverse Linked List                   | 反转链表                    | Easy       | Solved |
+|  234 | Palindrome Linked List                | 回文链表                    | Easy       | Todo   |
+|  327 | Delete Node in a Linked List          | 删除链表中的节点             | Easy       | Todo   |
 |  328 | Odd Even Linked List                  | 奇偶链表                    | Medium     | Todo   |
 |  445 | Add Two Numbers II                    | 两数相加 II                 | Medium     | Todo   |
 
