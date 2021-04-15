@@ -28,11 +28,10 @@
 ## LinkedList
 |   No | Title                                 | 题名                        | Difficulty | Status |
 | ---: | ------------------------------------- | --------------------------- | ---------- | ------ |
-|    2 | Add Two Numbers                       | 两数相加                    | Medium     | Todo   |
+|    2 | Add Two Numbers                       | 两数相加                    | Medium     | Solved  |
 |   19 | Remove Nth Node From End of List      | 删除链表的倒数第 N 个        | Medium     | Todo   |
 |   21 | Merge Two Sorted Lists                | 合并两个有序链表             | Easy       | Todo   |
 |   23 | Merge k Sorted Lists                  | 合并K个升序链表              | Hard       | Todo   |
-|   24 | Swap Nodes in Pairs                   | 两两交换链表中的节点         | Medium     | Todo   |
 |   24 | Swap Nodes in Pairs                   | 两两交换链表中的节点         | Medium     | Todo   |
 |   25 | Reverse Nodes in k-Group              | K 个一组翻转链表             | Medium     | Todo  |
 |   61 | Rotate List                           | 旋转链表                    | Medium     | Todo  |
@@ -45,7 +44,7 @@
 |  203 | Remove Linked List Elements           | 移除链表元素                | Easy       | Solved |
 |  206 | Reverse Linked List                   | 反转链表                    | Easy       | Solved |
 |  234 | Palindrome Linked List                | 回文链表                    | Easy       | Todo   |
-|  327 | Delete Node in a Linked List          | 删除链表中的节点             | Easy       | Todo   |
+|  327 | Delete Node in a Linked List          | 删除链表中的节点             | Easy       | Solved |
 |  328 | Odd Even Linked List                  | 奇偶链表                    | Medium     | Todo   |
 |  445 | Add Two Numbers II                    | 两数相加 II                 | Medium     | Todo   |
 
