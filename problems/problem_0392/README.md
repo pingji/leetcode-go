@@ -30,13 +30,15 @@ Constraints:
 Both strings consists only of lowercase characters.
 ```
 ## Solutions
-只search一遍，用 双指针法即可。如果需要search多次，就需要对t中各个字母的位置建立索引。
+只search一遍，用 双指针法即可。实际上是一种贪心算法
+
+如果需要search多次，就需要对t中各个字母的位置建立索引。
 
 建立索引有多种方法
 1. 建立一个矩阵，参考solution 2 动态规划
 2. 建立一个哈希表，参考solution 3 二分查找
 
-### Solution 1:  Two Pointers
+### Solution 1:  Two Pointers / Greedy
 解题思路
 1. 两个指针同时指向两个字符串的头部
 2. 开始移动，如果当前s的索引字节和t 当前索引字节相同 s索引向后移动
@@ -59,4 +61,3 @@ $$
 
 
 ### Solution 3：Binary Search
-

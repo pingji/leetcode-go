@@ -1,8 +1,13 @@
 package solution
 
-import "testing"
+import (
+	"testing"
+
+	"github.com/stretchr/testify/assert"
+)
 
 func TestProblem(t *testing.T) {
+	assert := assert.New(t)
 	tests := []struct {
 		s      string
 		t      string
@@ -16,8 +21,6 @@ func TestProblem(t *testing.T) {
 	for index, test := range tests {
 		output := isSubsequence(test.s, test.t)
 		t.Logf("index: %v, s: %v, t: %v, output %v", index, test.s, test.t, output)
-		if output != test.output {
-			t.Errorf("Failed！index: %v, expected: %v, output: %v", index, test.output, output)
-		}
+		assert.Equal(test.output, output)
 	}
 }

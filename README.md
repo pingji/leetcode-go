@@ -1,5 +1,5 @@
 # leetcode-go
-Solve leetcode problems using golang
+My solution to LeetCode problems using Golang
 # Problems 题库
 
 ## Array 数组
@@ -131,6 +131,8 @@ Solve leetcode problems using golang
 
 ## Greedy 贪心算法
 
-|   No | Title          | 题名     | Difficulty | Status |
-| ---: | -------------- | -------- | ---------- | ------ |
-|  455 | Assign Cookies | 分发饼干 | Easy       | Solved |
+|   No | Title                     | 题名       | Difficulty | Status |
+| ---: | ------------------------- | ---------- | ---------- | ------ |
+|  392 | Is Subsequence            | 判断子序列 | Easy       | Solved |
+|  435 | Non-overlapping Intervals | 无重叠区间 | Medium     | Todo |
+|  455 | Assign Cookies            | 分发饼干   | Easy       | Solved |
