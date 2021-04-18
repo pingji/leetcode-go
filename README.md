@@ -1,6 +1,6 @@
 # leetcode-go
-
-# Problems
+Solve leetcode problems using golang
+# Problems 题库
 
 ## Array 数组
 
@@ -9,7 +9,7 @@
 |   11 | Container With Most Water           | 盛最多水的容器         | Medium     | Solved |
 |   26 | Remove Duplicates from Sorted Array | 删除有序数组中的重复项 | Easy       | Solved |
 
-## String
+## String 字符串
 
 |   No | Title                     | 题名               | Difficulty | Status |
 | ---: | ------------------------- | ------------------ | ---------- | ------ |
@@ -31,7 +31,7 @@
 |  116 | Populating Next Right Pointers in Each Node | 填充每个节点的下一个右侧节点指针 | Medium     | Todo   |
 |  226 | Invert Binary Tree                          | 翻转二叉树                       | Easy       | Solved |
 
-## LinkedList
+## LinkedList 链表
 
 |   No | Title                              | 题名                     | Difficulty | Status |
 | ---: | ---------------------------------- | ------------------------ | ---------- | ------ |
@@ -55,7 +55,7 @@
 |  328 | Odd Even Linked List               | 奇偶链表                 | Medium     | Todo   |
 |  445 | Add Two Numbers II                 | 两数相加 II              | Medium     | Todo   |
 
-## Binary Search
+## Binary Search 二叉搜索树
 
 |   No | Title                              | 题名                       | Difficulty | Status |
 | ---: | ---------------------------------- | -------------------------- | ---------- | ------ |
@@ -70,7 +70,7 @@
 |  392 | Is Subsequence                     | 判断子序列                 | Easy       | Solved |
 |  704 | Binary Search                      | 二分查找                   | Easy       | Solved |
 
-## Stack
+## Stack 栈
 
 |   No | Title                            | 题名             | Difficulty | Status |
 | ---: | -------------------------------- | ---------------- | ---------- | ------ |
