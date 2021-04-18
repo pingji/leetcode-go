@@ -84,7 +84,7 @@
 
 |   No | Title                           | 题名                    | Difficulty | Status |
 | ---: | ------------------------------- | ----------------------- | ---------- | ------ |
-|   42 | Trapping Rain Water             | 接雨水                  | hard       | Solved   |
+|   42 | Trapping Rain Water             | 接雨水                  | hard       | Solved |
 |   53 | Maximum Subarray                | 最大子序和              | Easy       | Solved |
 |   70 | Climbing Stairs                 | 爬楼梯                  | Easy       | Solved |
 |  121 | Best Time to Buy and Sell Stock | 买卖股票的最佳时机      | Easy       | Solved |
@@ -128,3 +128,9 @@
 | ---: | --------- | ------------ | ---------- | ------ |
 |  146 | LRU Cache | LRU 缓存机制 | Medium     | Solved |
 |  460 | LFU Cache | LFU 缓存机制 | Hard       | Todo   |
+
+## Greedy 贪心算法
+
+|   No | Title          | 题名     | Difficulty | Status |
+| ---: | -------------- | -------- | ---------- | ------ |
+|  455 | Assign Cookies | 分发饼干 | Easy       | Solved |
