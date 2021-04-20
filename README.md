@@ -28,8 +28,8 @@ My solution to LeetCode problems using Golang
 |   No | Title                                       | 题名                             | Difficulty | Status |
 | ---: | ------------------------------------------- | -------------------------------- | ---------- | ------ |
 |   94 | Binary Tree Inorder Traversal               | 二叉树的中序遍历                 | Medium     | Solved |
-|  102 | Binary Tree Level Order Traversal           | 二叉树的层序遍历                 | Medium     | Todo   |
-|  107 | Binary Tree Level Order Traversal II        | 二叉树的层序遍历 II              | Medium     | Todo   |
+|  102 | Binary Tree Level Order Traversal           | 二叉树的层序遍历                 | Medium     | Solved |
+|  107 | Binary Tree Level Order Traversal II        | 二叉树的层序遍历 II              | Medium     | Solved |
 |  114 | Flatten Binary Tree to Linked List          | 二叉树展开为链表                 | Medium     | Solved |
 |  116 | Populating Next Right Pointers in Each Node | 填充每个节点的下一个右侧节点指针 | Medium     | Todo   |
 |  144 | Binary Tree Preorder Traversal              | 二叉树的前序遍历                 | Medium     | Solved |
