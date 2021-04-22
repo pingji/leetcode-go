@@ -51,7 +51,7 @@ func TestProblem(t *testing.T) {
 	printList(list3) // [8,0,7]
 
 	arr1 = []int{0}
-	arr2 = []int0}
+	arr2 = []int{0}
 	list1 = initList(arr1)
 	list2 = initList(arr2)
 	printList(list1)

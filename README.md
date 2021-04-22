@@ -94,6 +94,7 @@ My solution to LeetCode problems using Golang
 |   70 | Climbing Stairs                 | 爬楼梯                  | Easy       | Solved |
 |  121 | Best Time to Buy and Sell Stock | 买卖股票的最佳时机      | Easy       | Solved |
 |  198 | House Robber                    | 打家劫舍                | Easy       | Solved |
+|  300 | Longest Increasing Subsequence  | 最长递增子序列          | Medium     | Solved |
 |  303 | Range Sum Query - Immutable     | 区域和检索 - 数组不可变 | Easy       | Solved |
 |  322 | Coin Change                     | 零钱兑换                | Medium     | Solved |
 |  392 | Is Subsequence                  | 判断子序列              | Easy       | Solved |
@@ -136,8 +137,9 @@ My solution to LeetCode problems using Golang
 
 ## Greedy 贪心算法
 
-|   No | Title                     | 题名       | Difficulty | Status |
-| ---: | ------------------------- | ---------- | ---------- | ------ |
-|  392 | Is Subsequence            | 判断子序列 | Easy       | Solved |
-|  435 | Non-overlapping Intervals | 无重叠区间 | Medium     | Todo   |
-|  455 | Assign Cookies            | 分发饼干   | Easy       | Solved |
+|   No | Title                          | 题名           | Difficulty | Status |
+| ---: | ------------------------------ | -------------- | ---------- | ------ |
+|  300 | Longest Increasing Subsequence | 最长递增子序列 | Medium     | Todo   |
+|  392 | Is Subsequence                 | 判断子序列     | Easy       | Solved |
+|  435 | Non-overlapping Intervals      | 无重叠区间     | Medium     | Todo   |
+|  455 | Assign Cookies                 | 分发饼干       | Easy       | Solved |
