@@ -139,7 +139,7 @@ My solution to LeetCode problems using Golang
 
 |   No | Title                          | 题名           | Difficulty | Status |
 | ---: | ------------------------------ | -------------- | ---------- | ------ |
-|  300 | Longest Increasing Subsequence | 最长递增子序列 | Medium     | Todo   |
+|  300 | Longest Increasing Subsequence | 最长递增子序列 | Medium     | Solved |
 |  392 | Is Subsequence                 | 判断子序列     | Easy       | Solved |
 |  435 | Non-overlapping Intervals      | 无重叠区间     | Medium     | Todo   |
 |  455 | Assign Cookies                 | 分发饼干       | Easy       | Solved |
