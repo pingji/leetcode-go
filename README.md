@@ -4,10 +4,16 @@ My solution to LeetCode problems using Golang
 
 ## Array 数组
 
-|   No | Title                               | 题名                   | Difficulty | Status |
-| ---: | ----------------------------------- | ---------------------- | ---------- | ------ |
-|   11 | Container With Most Water           | 盛最多水的容器         | Medium     | Solved |
-|   26 | Remove Duplicates from Sorted Array | 删除有序数组中的重复项 | Easy       | Solved |
+|   No | Title                                  | 题名                      | Difficulty | Status |
+| ---: | -------------------------------------- | ------------------------- | ---------- | ------ |
+|   11 | Container With Most Water              | 盛最多水的容器            | Medium     | Solved |
+|   26 | Remove Duplicates from Sorted Array    | 删除有序数组中的重复项    | Easy       | Solved |
+|   27 | Remove Element                         | 移除元素                  | Easy       | Solved |
+|   75 | Sort Colors                            | 颜色分类                  | Medium     | Todo   |
+|   80 | Remove Duplicates from Sorted Array II | 删除有序数组中的重复项 II | Medium     | Solved |
+|   88 | Merge Sorted Array                     | 合并两个有序数组          | Easy       | Todo   |
+|  215 | Kth Largest Element in an Array        | 数组中的第K个最大元素     | Medium     | Todo   |
+|  283 | Move Zeroes                            | 移动零                    | Easy       | Solved |
 
 ## String 字符串
 
