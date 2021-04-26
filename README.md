@@ -49,7 +49,7 @@ My solution to LeetCode problems using Golang
 |    2 | Add Two Numbers                    | 两数相加                 | Medium     | Solved |
 |   19 | Remove Nth Node From End of List   | 删除链表的倒数第 N 个    | Medium     | Todo   |
 |   21 | Merge Two Sorted Lists             | 合并两个有序链表         | Easy       | Solved |
-|   23 | Merge k Sorted Lists               | 合并 K 个升序链表        | Hard       | Todo   |
+|   23 | Merge k Sorted Lists               | 合并 K 个升序链表        | Hard       | Solved |
 |   24 | Swap Nodes in Pairs                | 两两交换链表中的节点     | Medium     | Todo   |
 |   25 | Reverse Nodes in k-Group           | K 个一组翻转链表         | Medium     | Todo   |
 |   61 | Rotate List                        | 旋转链表                 | Medium     | Todo   |
@@ -149,3 +149,4 @@ My solution to LeetCode problems using Golang
 |  392 | Is Subsequence                 | 判断子序列     | Easy       | Solved |
 |  435 | Non-overlapping Intervals      | 无重叠区间     | Medium     | Todo   |
 |  455 | Assign Cookies                 | 分发饼干       | Easy       | Solved |
+
