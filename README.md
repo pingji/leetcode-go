@@ -107,6 +107,7 @@ My solution to LeetCode problems using Golang
 |      746 | Min Cost Climbing Stairs        | 使用最小花费爬楼梯      | Easy       | Solved |
 |     1025 | Divisor Game                    | 除数博弈                | Easy       | Todo   |
 | offer 09 | 用两个栈实现队列                | 用两个栈实现队列        | Easy       | Solved |
+| offer 30 | 包含min函数的栈                 | 包含min函数的栈         | Easy       | Solved |
 
 ## Backtracking 回溯
 
