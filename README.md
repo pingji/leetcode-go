@@ -93,6 +93,14 @@ My solution to LeetCode problems using Golang
 |  232 | Implement Queue using Stacks     | 用栈实现队列     | Easy       | Solved |
 |  394 | Decode String                    | 字符串解码       | Medium     | Todo   |
 
+## Heap 堆
+
+|       No | Title                           | 题名                  | Difficulty | Status |
+| -------: | ------------------------------- | --------------------- | ---------- | ------ |
+|      703 | Kth Largest Element in a Stream | 数据流中的第 K 大元素 | Easy       | Todo   |
+|     1046 | Last Stone Weight               | 最后一块石头的重量    | Easy       | Todo   |
+| Offer 40 | 最小的k个数                     | 最小的k个数           | Easy       | Todo   |
+
 ## Dynamic Programming 动态规划
 
 |       No | Title                           | 题名                    | Difficulty | Status |
