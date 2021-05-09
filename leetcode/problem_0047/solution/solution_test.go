@@ -2,6 +2,8 @@ package solution
 
 import (
 	"testing"
+
+	"github.com/stretchr/testify/assert"
 )
 
 func TestProblem(t *testing.T) {
@@ -23,9 +25,10 @@ func TestProblem(t *testing.T) {
 			{3, 2, 1},
 		}},
 	}
+	assert := assert.New(t)
 	for index, test := range tests {
 		output := permuteUnique(test.input)
 		t.Logf("index: %v, input: %v, output: %v", index, test.input, output)
-		// t.Error("Failed")
+		assert.ElementsMatch(test.output, output)
 	}
 }

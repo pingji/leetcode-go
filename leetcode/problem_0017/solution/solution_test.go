@@ -2,6 +2,8 @@ package solution
 
 import (
 	"testing"
+
+	"github.com/stretchr/testify/assert"
 )
 
 func TestProblem(t *testing.T) {
@@ -13,8 +15,10 @@ func TestProblem(t *testing.T) {
 		{"", []string{}},
 		{"2", []string{"a", "b", "c"}},
 	}
+	assert := assert.New(t)
 	for index, test := range tests {
 		output := letterCombinations(test.input)
 		t.Logf("index: %v, input: %q, output: %q", index, test.input, output)
+		assert.ElementsMatch(test.output, output)
 	}
 }

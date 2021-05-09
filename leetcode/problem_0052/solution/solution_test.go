@@ -2,6 +2,8 @@ package solution
 
 import (
 	"testing"
+
+	"github.com/stretchr/testify/assert"
 )
 
 func TestProblem(t *testing.T) {
@@ -11,11 +13,10 @@ func TestProblem(t *testing.T) {
 	}{
 		{4, 2}, {1, 1},
 	}
+	assert := assert.New(t)
 	for index, test := range tests {
 		output := totalNQueens(test.input)
 		t.Logf("index: %v, input: %v, output: %v", index, test.input, output)
-		if output != test.output {
-			t.Errorf("Failed")
-		}
+		assert.Equal(test.output, output)
 	}
 }
