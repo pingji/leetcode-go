@@ -97,6 +97,8 @@ My solution to LeetCode problems using Golang
 
 |       No | Title                           | 题名                  | Difficulty | Status |
 | -------: | ------------------------------- | --------------------- | ---------- | ------ |
+|      215 | Kth Largest Element in an Array | 数组中的第K个最大元素 | Medium     | Todo   |
+|      692 | Top K Frequent Words            | 前K个高频单词         | Medium     | Todo   |
 |      703 | Kth Largest Element in a Stream | 数据流中的第 K 大元素 | Easy       | Todo   |
 |     1046 | Last Stone Weight               | 最后一块石头的重量    | Easy       | Todo   |
 | Offer 40 | 最小的k个数                     | 最小的k个数           | Easy       | Todo   |
@@ -121,17 +123,18 @@ My solution to LeetCode problems using Golang
 
 ## Backtracking 回溯
 
-|   No | Title                | 题名      | Difficulty | Status |
-| ---: | -------------------- | --------- | ---------- | ------ |
-|   22 | Generate Parentheses | 括号生成  | Medium     | Todo   |
-|   37 | Sudoku Solver        | 解数独    | Hard       | Todo   |
-|   46 | Permutations         | 全排列    | Medium     | Solved |
-|   47 | Permutations II      | 全排列 II | Medium     | Solved |
-|   51 | N-Queens             | N 皇后    | Hard       | Solved |
-|   52 | N-Queens II          | N 皇后 II | Hard       | Solved |
-|   77 | Combinations         | 组合      | Medium     | Solved |
-|   78 | Subsets              | 子集      | Medium     | Solved |
-|   90 | Subsets II           | 子集 II   | Medium     | Solved |
+|   No | Title                                 | 题名               | Difficulty | Status |
+| ---: | ------------------------------------- | ------------------ | ---------- | ------ |
+|   17 | Letter Combinations of a Phone Number | 电话号码的字母组合 | Medium     | Solved |
+|   22 | Generate Parentheses                  | 括号生成           | Medium     | Todo   |
+|   37 | Sudoku Solver                         | 解数独             | Hard       | Todo   |
+|   46 | Permutations                          | 全排列             | Medium     | Solved |
+|   47 | Permutations II                       | 全排列 II          | Medium     | Solved |
+|   51 | N-Queens                              | N 皇后             | Hard       | Solved |
+|   52 | N-Queens II                           | N 皇后 II          | Hard       | Solved |
+|   77 | Combinations                          | 组合               | Medium     | Solved |
+|   78 | Subsets                               | 子集               | Medium     | Solved |
+|   90 | Subsets II                            | 子集 II            | Medium     | Solved |
 
 ## Trie 字典树
 
