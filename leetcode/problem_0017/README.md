@@ -1,5 +1,20 @@
-## Solutions
-### solution1
+# Solutions
+```mermaid
+graph TB
+    Node1[2] --a--> Node21[3]
+    Node1 --b--> Node22[3]
+    Node1 --c--> Node23[3]
+    Node21 --d--> End1([ad])
+    Node21 --e--> End2([ae])
+    Node21 --f--> End3([af])
+    Node22 --d--> End4([bd])
+    Node22 --e--> End5([be])
+    Node22 --f--> End6([bf])
+    Node23 --d--> End7([cd])
+    Node23 --e--> End8([ce])
+    Node23 --f--> End9([cf])
+```
+## solution 1: 回溯
 采用回溯算法,回溯算法的框架为
 ```
 result = []
@@ -16,18 +31,4 @@ def backtrack(路径, 选择列表):
 需要注意的是，result.add(路径) 需要深度拷贝
 
 
-```mermaid
-graph TB
-    Node1[2] --a--> Node21[3]
-    Node1 --b--> Node22[3]
-    Node1 --c--> Node23[3]
-    Node21 --d--> End1([ad])
-    Node21 --e--> End2([ae])
-    Node21 --f--> End3([af])
-    Node22 --d--> End4([bd])
-    Node22 --e--> End5([be])
-    Node22 --f--> End6([bf])
-    Node23 --d--> End7([cd])
-    Node23 --e--> End8([ce])
-    Node23 --f--> End9([cf])
-```
+## solution 2: 递归
