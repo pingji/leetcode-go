@@ -9,7 +9,7 @@ My solution to LeetCode problems using Golang
 |   11 | Container With Most Water              | 盛最多水的容器            | Medium     | Solved |
 |   26 | Remove Duplicates from Sorted Array    | 删除有序数组中的重复项    | Easy       | Solved |
 |   27 | Remove Element                         | 移除元素                  | Easy       | Solved |
-|   75 | Sort Colors                            | 颜色分类                  | Medium     | Todo   |
+|   75 | Sort Colors                            | 颜色分类                  | Medium     | Solved |
 |   80 | Remove Duplicates from Sorted Array II | 删除有序数组中的重复项 II | Medium     | Solved |
 |   88 | Merge Sorted Array                     | 合并两个有序数组          | Easy       | Todo   |
 |  215 | Kth Largest Element in an Array        | 数组中的第K个最大元素     | Medium     | Todo   |
@@ -135,6 +135,8 @@ My solution to LeetCode problems using Golang
 |   77 | Combinations                          | 组合               | Medium     | Solved |
 |   78 | Subsets                               | 子集               | Medium     | Solved |
 |   90 | Subsets II                            | 子集 II            | Medium     | Solved |
+|   93 | Restore IP Addresses                  | 复原 IP 地址       | Medium     | Todo   |
+|  131 | Palindrome Partitioning               | 分割回文串         | Medium     | Todo   |
 
 ## Trie 字典树
 
