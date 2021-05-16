@@ -12,36 +12,18 @@ import (
 
 func TestQuickSort1(t *testing.T) {
 	assert := assert.New(t)
+	nums1 := array.GenerateRandomArray(1000000, 1, 100)
+	// nums1 := array.GenerateRandomArray(1000000, 1, 1000000)
+	nums2 := make([]int, len(nums1))
+	copy(nums2, nums1)
+	nums3 := make([]int, len(nums1))
+	copy(nums3, nums1)
 
-	nums := array.GenerateRandomArray(1000000, 1, 1000000)
-	// fmt.Printf("before sort, nums: \n%v\n", nums)
+	array.TestSort(nums1, quicksort1.QuickSort, "Quick Sort 1")
+	array.TestSort(nums2, quicksort2.QuickSort, "Quick Sort 2")
+	array.TestSort(nums3, quicksort3.QuickSort, "Quick Sort 3")
 
-	array.TestSort(nums, quicksort1.QuickSort, "Quick Sort 1")
-	// fmt.Printf("after sort, nums: \n%v\n", nums)
-
-	assert.True(array.IsSorted(nums))
-}
-
-func TestQuickSort2(t *testing.T) {
-	assert := assert.New(t)
-
-	nums := array.GenerateRandomArray(1000000, 1, 1000000)
-	// fmt.Printf("before sort, nums: \n%v\n", nums)
-
-	array.TestSort(nums, quicksort2.QuickSort, "Quick Sort 2")
-	// fmt.Printf("after sort, nums: \n%v\n", nums)
-
-	assert.True(array.IsSorted(nums))
-}
-
-func TestQuickSort3(t *testing.T) {
-	assert := assert.New(t)
-
-	nums := array.GenerateRandomArray(1000000, 1, 1000000)
-	// fmt.Printf("before sort, nums: \n%v\n", nums)
-
-	array.TestSort(nums, quicksort3.QuickSort, "Quick Sort 3")
-	// fmt.Printf("after sort, nums: \n%v\n", nums)
-
-	assert.True(array.IsSorted(nums))
+	assert.True(array.IsSorted(nums1))
+	assert.True(array.IsSorted(nums2))
+	assert.True(array.IsSorted(nums3))
 }
