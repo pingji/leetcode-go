@@ -1,4 +1,4 @@
-package mergesort1
+package mergesort2
 
 func merge(nums []int, l int, mid int, r int) {
 	temp := make([]int, r-l+1)
@@ -23,18 +23,19 @@ func merge(nums []int, l int, mid int, r int) {
 	}
 }
 
-func mergeSort(nums []int, l int, r int) {
-	if l >= r {
-		return
-	}
-	mid := (l + r) / 2
-	mergeSort(nums, l, mid)
-	mergeSort(nums, mid+1, r)
-	if nums[mid] > nums[mid+1] {
-		merge(nums, l, mid, r)
+func min(x int, y int) int {
+	if x <= y {
+		return x
+	} else {
+		return y
 	}
 }
 
 func MergeSort(nums []int) {
-	mergeSort(nums, 0, len(nums)-1)
+	for step := 1; step <= len(nums); step += step {
+		for i := 0; i+step < len(nums); i += 2 * step {
+			var r = min(i+2*step-1, len(nums)-1)
+			merge(nums, i, i+step-1, r)
+		}
+	}
 }
