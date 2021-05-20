@@ -101,7 +101,7 @@ My solution to LeetCode problems using Golang
 |      692 | Top K Frequent Words            | 前K个高频单词         | Medium     | Todo   |
 |      703 | Kth Largest Element in a Stream | 数据流中的第 K 大元素 | Easy       | Todo   |
 |     1046 | Last Stone Weight               | 最后一块石头的重量    | Easy       | Todo   |
-| Offer 40 | 最小的k个数                     | 最小的k个数           | Easy       | Todo   |
+| Offer 40 | 最小的k个数                     | 最小的k个数           | Easy       | Solved |
 
 ## Dynamic Programming 动态规划
 
