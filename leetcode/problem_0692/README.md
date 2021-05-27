@@ -26,3 +26,6 @@ type Interface interface {
 	Swap(i, j int)
 }
 ```
+
+## Solution 2：
+自己实现的heap, 
