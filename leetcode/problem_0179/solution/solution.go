@@ -18,5 +18,10 @@ func largestNumber(nums []int) string {
 		b.WriteString(strconv.Itoa(num))
 	}
 
-	return b.String()
+	s := b.String()
+	s = strings.TrimLeft(s, "0")
+	if len(s) == 0 {
+		s = "0"
+	}
+	return s
 }

@@ -16,6 +16,7 @@ func TestProblem(t *testing.T) {
 		{[]int{3, 30, 34, 5, 9}, "9534330"},
 		{[]int{1}, "1"},
 		{[]int{10}, "10"},
+		{[]int{0, 0}, "0"},
 	}
 	for index, test := range tests {
 		output := largestNumber(test.input)
