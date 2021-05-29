@@ -28,4 +28,5 @@ type Interface interface {
 ```
 
 ## Solution 2：
-自己实现的heap, 
+自己实现的 最小堆, 只包含k个节点。pop出来的k个节点是答案的逆序，需要注意
+solution 1 是个最大堆，n个节点（n为数组的size），按照顺序只 pop前k个即可
