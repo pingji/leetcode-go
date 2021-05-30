@@ -23,10 +23,11 @@ My solution to LeetCode problems using Golang
 
 ## Sort 排序
 
-|   No | Title          | 题名   | Difficulty | Status |
-| ---: | -------------- | ------ | ---------- | ------ |
-|  179 | Largest Number | 最大数 | Medium     | Solved |
-|  853 | Car Fleet      | 车队   | Medium     | Solved |
+|   No | Title          | 题名     | Difficulty | Status |
+| ---: | -------------- | -------- | ---------- | ------ |
+|  148 | Sort List      | 排序链表 | Medium     | Solved |
+|  179 | Largest Number | 最大数   | Medium     | Solved |
+|  853 | Car Fleet      | 车队     | Medium     | Solved |
 
 ## Two Pointers 双指针
 
@@ -65,7 +66,7 @@ My solution to LeetCode problems using Golang
 |   92 | Reverse Linked List II             | 反转链表 II              | Medium     | Solved |
 |  143 | Reorder List                       | 重排链表                 | Medium     | Todo   |
 |  147 | Insertion Sort List                | 对链表进行插入排序       | Medium     | Todo   |
-|  148 | Sort List                          | 排序链表                 | Medium     | Todo   |
+|  148 | Sort List                          | 排序链表                 | Medium     | Solved |
 |  203 | Remove Linked List Elements        | 移除链表元素             | Easy       | Solved |
 |  206 | Reverse Linked List                | 反转链表                 | Easy       | Solved |
 |  234 | Palindrome Linked List             | 回文链表                 | Easy       | Todo   |
