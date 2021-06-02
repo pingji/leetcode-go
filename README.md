@@ -23,12 +23,14 @@ My solution to LeetCode problems using Golang
 
 ## Sort 排序
 
-|   No | Title           | 题名     | Difficulty | Status |
-| ---: | --------------- | -------- | ---------- | ------ |
-|   56 | Merge Intervals | 合并区间 | Medium     | Solved |
-|  148 | Sort List       | 排序链表 | Medium     | Solved |
-|  179 | Largest Number  | 最大数   | Medium     | Solved |
-|  853 | Car Fleet       | 车队     | Medium     | Solved |
+|       No | Title              | 题名           | Difficulty | Status |
+| -------: | ------------------ | -------------- | ---------- | ------ |
+|       56 | Merge Intervals    | 合并区间       | Medium     | Solved |
+|      148 | Sort List          | 排序链表       | Medium     | Solved |
+|      179 | Largest Number     | 最大数         | Medium     | Solved |
+|      327 | Count of Range Sum | 区间和的个数   | Medium     | Solved |
+|      853 | Car Fleet          | 车队           | Medium     | Solved |
+| offer 51 | 数组中的逆序对     | 数组中的逆序对 | Hard       | Solved |
 
 ## Two Pointers 双指针
 
@@ -71,7 +73,7 @@ My solution to LeetCode problems using Golang
 |  203 | Remove Linked List Elements        | 移除链表元素             | Easy       | Solved |
 |  206 | Reverse Linked List                | 反转链表                 | Easy       | Solved |
 |  234 | Palindrome Linked List             | 回文链表                 | Easy       | Todo   |
-|  327 | Delete Node in a Linked List       | 删除链表中的节点         | Easy       | Solved |
+|  237 | Delete Node in a Linked List       | 删除链表中的节点         | Easy       | Solved |
 |  328 | Odd Even Linked List               | 奇偶链表                 | Medium     | Todo   |
 |  445 | Add Two Numbers II                 | 两数相加 II              | Medium     | Todo   |
 

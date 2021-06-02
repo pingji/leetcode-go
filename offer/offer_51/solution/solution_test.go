@@ -9,15 +9,15 @@ import (
 func TestProblem(t *testing.T) {
 	assert := assert.New(t)
 	tests := []struct {
-		input  int
+		input  []int
 		output int
 	}{
-		{1, 1},
-		{2, 2},
-		{3, 3},
+		{[]int{7, 5, 6, 4}, 5},
+		{[]int{1, 3, 2, 3, 1}, 4},
+		{[]int{}, 0},
 	}
 	for index, test := range tests {
-		output := foo(test.input)
+		output := reversePairs(test.input)
 		t.Logf("index: %v, input: %v, output %v", index, test.input, output)
 		assert.Equal(test.output, output)
 	}
