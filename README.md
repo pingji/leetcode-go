@@ -21,8 +21,8 @@ My solution to LeetCode problems using Golang
 |         No | Title                                          | 题名                       | Difficulty | Status |
 | ---------: | ---------------------------------------------- | -------------------------- | ---------- | ------ |
 |          3 | Longest Substring Without Repeating Characters | 无重复字符的最长子串       | Medium     | Solved |
-|         76 | Minimum Window Substring                       | 最小覆盖子串               | Hard       | Solved   |
-|        239 | Sliding Window Maximum                         | 滑动窗口最大值             | Hard       | Todo   |
+|         76 | Minimum Window Substring                       | 最小覆盖子串               | Hard       | Solved |
+|        239 | Sliding Window Maximum                         | 滑动窗口最大值             | Hard       | Solved |
 |        424 | Longest Repeating Character Replacement        | 替换后的最长重复字符       | Hard       | Todo   |
 |   offer 48 | 最长不含重复字符的子字符串                     | 最长不含重复字符的子字符串 | Medium     | Todo   |
 | offer 59-I | 滑动窗口的最大值                               | 滑动窗口的最大值           | Hard       | Todo   |
