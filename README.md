@@ -27,7 +27,6 @@ My solution to LeetCode problems using Golang
 |   offer 48 | 最长不含重复字符的子字符串                     | 最长不含重复字符的子字符串 | Medium     | Todo   |
 | offer 59-I | 滑动窗口的最大值                               | 滑动窗口的最大值           | Hard       | Todo   |
 
-
 ## String 字符串
 
 |   No | Title                     | 题名               | Difficulty | Status |
@@ -126,6 +125,26 @@ My solution to LeetCode problems using Golang
 |      703 | Kth Largest Element in a Stream | 数据流中的第 K 大元素 | Easy       | Solved |
 |     1046 | Last Stone Weight               | 最后一块石头的重量    | Easy       | Todo   |
 | Offer 40 | 最小的k个数                     | 最小的k个数           | Easy       | Solved |
+
+
+## Depth-First Search/Breadth-First Search 深度优先搜索/广度优先搜索
+
+|   No | Title               | 题名           | Difficulty | Status |
+| ---: | ------------------- | -------------- | ---------- | ------ |
+|  200 | Number of Islands   | 岛屿数量       | Medium     | Solved |
+|  547 | Number of Provinces | 省份数量       | Medium     | Solved |
+|  695 | Max Area of Island  | 岛屿的最大面积 | Medium     | Solved |
+
+
+## Union Find 并查集
+
+|   No | Title                        | 题名           | Difficulty | Status |
+| ---: | ---------------------------- | -------------- | ---------- | ------ |
+|  128 | Longest Consecutive Sequence | 最长连续序列   | Medium     | Todo   |
+|  200 | Number of Islands            | 岛屿数量       | Medium     | Todo   |
+|  547 | Number of Provinces          | 省份数量       | Medium     | Solved |
+|  695 | Max Area of Island           | 岛屿的最大面积 | Medium     | Todo   |
+|  721 | Accounts Merge               | 账户合并       | Medium     | Todo   |
 
 ## Dynamic Programming 动态规划
 
