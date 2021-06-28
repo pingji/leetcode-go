@@ -127,6 +127,12 @@ My solution to LeetCode problems using Golang
 | Offer 40 | 最小的k个数                     | 最小的k个数           | Easy       | Solved |
 
 
+## Hash Table 哈希表
+
+|   No | Title                        | 题名         | Difficulty | Status |
+| ---: | ---------------------------- | ------------ | ---------- | ------ |
+|  128 | Longest Consecutive Sequence | 最长连续序列 | Medium     | Solved |
+
 ## Depth-First Search/Breadth-First Search 深度优先搜索/广度优先搜索
 
 |   No | Title               | 题名           | Difficulty | Status |
@@ -140,7 +146,6 @@ My solution to LeetCode problems using Golang
 
 |   No | Title                        | 题名           | Difficulty | Status |
 | ---: | ---------------------------- | -------------- | ---------- | ------ |
-|  128 | Longest Consecutive Sequence | 最长连续序列   | Medium     | Todo   |
 |  200 | Number of Islands            | 岛屿数量       | Medium     | Todo   |
 |  547 | Number of Provinces          | 省份数量       | Medium     | Solved |
 |  695 | Max Area of Island           | 岛屿的最大面积 | Medium     | Todo   |
