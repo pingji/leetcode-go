@@ -144,12 +144,12 @@ My solution to LeetCode problems using Golang
 
 ## Union Find 并查集
 
-|   No | Title                        | 题名           | Difficulty | Status |
-| ---: | ---------------------------- | -------------- | ---------- | ------ |
-|  200 | Number of Islands            | 岛屿数量       | Medium     | Todo   |
-|  547 | Number of Provinces          | 省份数量       | Medium     | Solved |
-|  695 | Max Area of Island           | 岛屿的最大面积 | Medium     | Todo   |
-|  721 | Accounts Merge               | 账户合并       | Medium     | Todo   |
+|   No | Title               | 题名           | Difficulty | Status |
+| ---: | ------------------- | -------------- | ---------- | ------ |
+|  200 | Number of Islands   | 岛屿数量       | Medium     | Todo   |
+|  547 | Number of Provinces | 省份数量       | Medium     | Solved |
+|  695 | Max Area of Island  | 岛屿的最大面积 | Medium     | Todo   |
+|  721 | Accounts Merge      | 账户合并       | Medium     | Solved |
 
 ## Dynamic Programming 动态规划
 
