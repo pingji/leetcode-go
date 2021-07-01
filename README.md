@@ -129,9 +129,12 @@ My solution to LeetCode problems using Golang
 
 ## Hash Table 哈希表
 
-|   No | Title                        | 题名         | Difficulty | Status |
-| ---: | ---------------------------- | ------------ | ---------- | ------ |
-|  128 | Longest Consecutive Sequence | 最长连续序列 | Medium     | Solved |
+|   No | Title                                 | 题名         | Difficulty | Status |
+| ---: | ------------------------------------- | ------------ | ---------- | ------ |
+|  128 | Longest Consecutive Sequence          | 最长连续序列 | Medium     | Solved |
+|  781 | Rabbits in Forest                     | 森林中的兔子 | Medium     | Solved |
+|  815 | Bus Routes                            | 公交路线     | Hard       | Todo   |
+| 1178 | Number of Valid Words for Each Puzzle | 猜字谜       | Hard       | Todo   |
 
 ## Depth-First Search/Breadth-First Search 深度优先搜索/广度优先搜索
 
