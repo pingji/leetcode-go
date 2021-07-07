@@ -133,6 +133,7 @@ My solution to LeetCode problems using Golang
 
 |       No | Title                                                | 题名                             | Difficulty | Status |
 | -------: | ---------------------------------------------------- | -------------------------------- | ---------- | ------ |
+|       41 | First Missing Positive                               | 缺失的第一个正数                 | Hard       | Solved |
 |      128 | Longest Consecutive Sequence                         | 最长连续序列                     | Medium     | Solved |
 |      781 | Rabbits in Forest                                    | 森林中的兔子                     | Medium     | Solved |
 |     1178 | Number of Valid Words for Each Puzzle                | 猜字谜                           | Hard       | Todo   |
