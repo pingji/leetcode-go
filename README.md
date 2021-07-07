@@ -129,12 +129,13 @@ My solution to LeetCode problems using Golang
 
 ## Hash Table 哈希表
 
-|   No | Title                                 | 题名         | Difficulty | Status |
-| ---: | ------------------------------------- | ------------ | ---------- | ------ |
-|  128 | Longest Consecutive Sequence          | 最长连续序列 | Medium     | Solved |
-|  781 | Rabbits in Forest                     | 森林中的兔子 | Medium     | Solved |
-|  815 | Bus Routes                            | 公交路线     | Hard       | Solved |
-| 1178 | Number of Valid Words for Each Puzzle | 猜字谜       | Hard       | Todo   |
+|       No | Title                                                | 题名                             | Difficulty | Status |
+| -------: | ---------------------------------------------------- | -------------------------------- | ---------- | ------ |
+|      128 | Longest Consecutive Sequence                         | 最长连续序列                     | Medium     | Solved |
+|      781 | Rabbits in Forest                                    | 森林中的兔子                     | Medium     | Solved |
+|     1178 | Number of Valid Words for Each Puzzle                | 猜字谜                           | Hard       | Todo   |
+|     1442 | Count Triplets That Can Form Two Arrays of Equal XOR | 形成两个异或相等数组的三元组数目 | Medium     | Todo   |
+| Offer 03 | 数组中重复的数字                                     | 数组中重复的数字                 | Easy       | Solved   |
 
 ## Depth-First Search/Breadth-First Search 深度优先搜索/广度优先搜索
 
@@ -143,6 +144,7 @@ My solution to LeetCode problems using Golang
 |  200 | Number of Islands   | 岛屿数量       | Medium     | Solved |
 |  547 | Number of Provinces | 省份数量       | Medium     | Solved |
 |  695 | Max Area of Island  | 岛屿的最大面积 | Medium     | Solved |
+|  815 | Bus Routes          | 公交路线       | Hard       | Solved |
 
 
 ## Union Find 并查集
