@@ -54,16 +54,17 @@ My solution to LeetCode problems using Golang
 
 ## Tree 树
 
-|   No | Title                                       | 题名                             | Difficulty | Status |
-| ---: | ------------------------------------------- | -------------------------------- | ---------- | ------ |
-|   94 | Binary Tree Inorder Traversal               | 二叉树的中序遍历                 | Medium     | Solved |
-|  102 | Binary Tree Level Order Traversal           | 二叉树的层序遍历                 | Medium     | Solved |
-|  107 | Binary Tree Level Order Traversal II        | 二叉树的层序遍历 II              | Medium     | Solved |
-|  114 | Flatten Binary Tree to Linked List          | 二叉树展开为链表                 | Medium     | Solved |
-|  116 | Populating Next Right Pointers in Each Node | 填充每个节点的下一个右侧节点指针 | Medium     | Todo   |
-|  144 | Binary Tree Preorder Traversal              | 二叉树的前序遍历                 | Medium     | Solved |
-|  145 | Binary Tree Postorder Traversal             | 二叉树的后序遍历                 | Medium     | Solved |
-|  226 | Invert Binary Tree                          | 翻转二叉树                       | Easy       | Solved |
+|   No | Title                                                     | 题名                             | Difficulty | Status |
+| ---: | --------------------------------------------------------- | -------------------------------- | ---------- | ------ |
+|   94 | Binary Tree Inorder Traversal                             | 二叉树的中序遍历                 | Medium     | Solved |
+|  102 | Binary Tree Level Order Traversal                         | 二叉树的层序遍历                 | Medium     | Solved |
+|  105 | Construct Binary Tree from Preorder and Inorder Traversal | 从前序与中序遍历序列构造二叉树   | Medium     | Solved |
+|  107 | Binary Tree Level Order Traversal II                      | 二叉树的层序遍历 II              | Medium     | Solved |
+|  114 | Flatten Binary Tree to Linked List                        | 二叉树展开为链表                 | Medium     | Solved |
+|  116 | Populating Next Right Pointers in Each Node               | 填充每个节点的下一个右侧节点指针 | Medium     | Todo   |
+|  144 | Binary Tree Preorder Traversal                            | 二叉树的前序遍历                 | Medium     | Solved |
+|  145 | Binary Tree Postorder Traversal                           | 二叉树的后序遍历                 | Medium     | Solved |
+|  226 | Invert Binary Tree                                        | 翻转二叉树                       | Easy       | Solved |
 
 ## LinkedList 链表
 
@@ -135,7 +136,7 @@ My solution to LeetCode problems using Golang
 |      781 | Rabbits in Forest                                    | 森林中的兔子                     | Medium     | Solved |
 |     1178 | Number of Valid Words for Each Puzzle                | 猜字谜                           | Hard       | Todo   |
 |     1442 | Count Triplets That Can Form Two Arrays of Equal XOR | 形成两个异或相等数组的三元组数目 | Medium     | Todo   |
-| Offer 03 | 数组中重复的数字                                     | 数组中重复的数字                 | Easy       | Solved   |
+| Offer 03 | 数组中重复的数字                                     | 数组中重复的数字                 | Easy       | Solved |
 
 ## Depth-First Search/Breadth-First Search 深度优先搜索/广度优先搜索
 
