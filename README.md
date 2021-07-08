@@ -24,6 +24,7 @@ My solution to LeetCode problems using Golang
 |         76 | Minimum Window Substring                       | 最小覆盖子串               | Hard       | Solved |
 |        239 | Sliding Window Maximum                         | 滑动窗口最大值             | Hard       | Solved |
 |        424 | Longest Repeating Character Replacement        | 替换后的最长重复字符       | Hard       | Todo   |
+|       1248 | Count Number of Nice Subarrays                 | 统计「优美子数组」         | Medium     | Todo   |
 |   offer 48 | 最长不含重复字符的子字符串                     | 最长不含重复字符的子字符串 | Medium     | Todo   |
 | offer 59-I | 滑动窗口的最大值                               | 滑动窗口的最大值           | Hard       | Todo   |
 
@@ -134,9 +135,12 @@ My solution to LeetCode problems using Golang
 
 |       No | Title                                                | 题名                             | Difficulty | Status |
 | -------: | ---------------------------------------------------- | -------------------------------- | ---------- | ------ |
+|        1 | Two Sum                                              | 两数之和                         | Easy       | Solved |
 |       13 | Roman to Integer                                     | 罗马数字转整数                   | Easy       | Solved |
 |       41 | First Missing Positive                               | 缺失的第一个正数                 | Hard       | Solved |
 |      128 | Longest Consecutive Sequence                         | 最长连续序列                     | Medium     | Solved |
+|      454 | 4Sum II                                              | 四数相加 II                      | Medium     | Todo   |
+|      560 | Subarray Sum Equals K                                | 和为K的子数组                    | Medium     | Solved |
 |      781 | Rabbits in Forest                                    | 森林中的兔子                     | Medium     | Solved |
 |     1178 | Number of Valid Words for Each Puzzle                | 猜字谜                           | Hard       | Todo   |
 |     1442 | Count Triplets That Can Form Two Arrays of Equal XOR | 形成两个异或相等数组的三元组数目 | Medium     | Todo   |
