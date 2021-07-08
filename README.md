@@ -134,6 +134,7 @@ My solution to LeetCode problems using Golang
 
 |       No | Title                                                | 题名                             | Difficulty | Status |
 | -------: | ---------------------------------------------------- | -------------------------------- | ---------- | ------ |
+|       13 | Roman to Integer                                     | 罗马数字转整数                   | Easy       | Solved |
 |       41 | First Missing Positive                               | 缺失的第一个正数                 | Hard       | Solved |
 |      128 | Longest Consecutive Sequence                         | 最长连续序列                     | Medium     | Solved |
 |      781 | Rabbits in Forest                                    | 森林中的兔子                     | Medium     | Solved |
