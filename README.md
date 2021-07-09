@@ -23,8 +23,7 @@ My solution to LeetCode problems using Golang
 |          3 | Longest Substring Without Repeating Characters | 无重复字符的最长子串       | Medium     | Solved |
 |         76 | Minimum Window Substring                       | 最小覆盖子串               | Hard       | Solved |
 |        239 | Sliding Window Maximum                         | 滑动窗口最大值             | Hard       | Solved |
-|        424 | Longest Repeating Character Replacement        | 替换后的最长重复字符       | Hard       | Todo   |
-|       1248 | Count Number of Nice Subarrays                 | 统计「优美子数组」         | Medium     | Todo   |
+|        424 | Longest Repeating Character Replacement        | 替换后的最长重复字符       | Hard       | Solved |
 |   offer 48 | 最长不含重复字符的子字符串                     | 最长不含重复字符的子字符串 | Medium     | Todo   |
 | offer 59-I | 滑动窗口的最大值                               | 滑动窗口的最大值           | Hard       | Todo   |
 
@@ -53,6 +52,14 @@ My solution to LeetCode problems using Golang
 |   42 | Trapping Rain Water | 接雨水     | hard       | Todo   |
 |  392 | Is Subsequence      | 判断子序列 | Easy       | Solved |
 
+
+## Prefix Sum 前缀和
+
+|   No | Title                          | 题名               | Difficulty | Status |
+| ---: | ------------------------------ | ------------------ | ---------- | ------ |
+|  560 | Subarray Sum Equals K          | 和为K的子数组      | Medium     | Solved |
+|  724 | Find Pivot Index               | 寻找数组的中心下标 | Easy       | Solved |
+| 1248 | Count Number of Nice Subarrays | 统计「优美子数组」 | Medium     | Solved |
 ## Tree 树
 
 |       No | Title                                                     | 题名                             | Difficulty | Status |
@@ -140,7 +147,6 @@ My solution to LeetCode problems using Golang
 |       41 | First Missing Positive                               | 缺失的第一个正数                 | Hard       | Solved |
 |      128 | Longest Consecutive Sequence                         | 最长连续序列                     | Medium     | Solved |
 |      454 | 4Sum II                                              | 四数相加 II                      | Medium     | Todo   |
-|      560 | Subarray Sum Equals K                                | 和为K的子数组                    | Medium     | Solved |
 |      781 | Rabbits in Forest                                    | 森林中的兔子                     | Medium     | Solved |
 |     1178 | Number of Valid Words for Each Puzzle                | 猜字谜                           | Hard       | Todo   |
 |     1442 | Count Triplets That Can Form Two Arrays of Equal XOR | 形成两个异或相等数组的三元组数目 | Medium     | Todo   |
