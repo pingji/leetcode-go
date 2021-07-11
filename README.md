@@ -29,9 +29,10 @@ My solution to LeetCode problems using Golang
 
 ## String 字符串
 
-|   No | Title                     | 题名               | Difficulty | Status |
-| ---: | ------------------------- | ------------------ | ---------- | ------ |
-|  151 | Reverse Words in a String | 翻转字符串里的单词 | Medium     | Solved |
+|   No | Title                         | 题名               | Difficulty | Status |
+| ---: | ----------------------------- | ------------------ | ---------- | ------ |
+|    5 | Longest Palindromic Substring | 最长回文子串       | Medium     | Solved |
+|  151 | Reverse Words in a String     | 翻转字符串里的单词 | Medium     | Solved |
 
 ## Sort 排序
 
@@ -55,11 +56,13 @@ My solution to LeetCode problems using Golang
 
 ## Prefix Sum 前缀和
 
-|   No | Title                          | 题名               | Difficulty | Status |
-| ---: | ------------------------------ | ------------------ | ---------- | ------ |
-|  560 | Subarray Sum Equals K          | 和为K的子数组      | Medium     | Solved |
-|  724 | Find Pivot Index               | 寻找数组的中心下标 | Easy       | Solved |
-| 1248 | Count Number of Nice Subarrays | 统计「优美子数组」 | Medium     | Solved |
+|   No | Title                          | 题名                  | Difficulty | Status |
+| ---: | ------------------------------ | --------------------- | ---------- | ------ |
+|  523 | Continuous Subarray Sum        | 连续的子数组和        | Medium     | Todo   |
+|  560 | Subarray Sum Equals K          | 和为K的子数组         | Medium     | Solved |
+|  724 | Find Pivot Index               | 寻找数组的中心下标    | Easy       | Solved |
+|  974 | Subarray Sums Divisible by K   | 和可被 K 整除的子数组 | Medium     | Todo   |
+| 1248 | Count Number of Nice Subarrays | 统计「优美子数组」    | Medium     | Solved |
 ## Tree 树
 
 |       No | Title                                                     | 题名                             | Difficulty | Status |
