@@ -23,3 +23,4 @@ if sum[i-1] > 0 : sum[i-1] +arr[i]
 else arr[i]
 
 ### Solution 2: Greedy Algorithm
+局部最优：当前“连续和”为负数的时候立刻放弃，从下一个元素重新计算“连续和”，因为负数加上下一个元素 “连续和”只会越来越小。

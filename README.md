@@ -176,21 +176,41 @@ My solution to LeetCode problems using Golang
 
 ## Dynamic Programming 动态规划
 
-|       No | Title                           | 题名                    | Difficulty | Status |
-| -------: | ------------------------------- | ----------------------- | ---------- | ------ |
-|       42 | Trapping Rain Water             | 接雨水                  | hard       | Solved |
-|       53 | Maximum Subarray                | 最大子序和              | Easy       | Solved |
-|       70 | Climbing Stairs                 | 爬楼梯                  | Easy       | Solved |
-|      121 | Best Time to Buy and Sell Stock | 买卖股票的最佳时机      | Easy       | Solved |
-|      198 | House Robber                    | 打家劫舍                | Easy       | Solved |
-|      300 | Longest Increasing Subsequence  | 最长递增子序列          | Medium     | Solved |
-|      303 | Range Sum Query - Immutable     | 区域和检索 - 数组不可变 | Easy       | Solved |
-|      322 | Coin Change                     | 零钱兑换                | Medium     | Solved |
-|      392 | Is Subsequence                  | 判断子序列              | Easy       | Solved |
-|      746 | Min Cost Climbing Stairs        | 使用最小花费爬楼梯      | Easy       | Solved |
-|     1025 | Divisor Game                    | 除数博弈                | Easy       | Todo   |
-| offer 09 | 用两个栈实现队列                | 用两个栈实现队列        | Easy       | Solved |
-| offer 30 | 包含min函数的栈                 | 包含min函数的栈         | Easy       | Solved |
+|       No | Title                              | 题名                    | Difficulty | Status |
+| -------: | ---------------------------------- | ----------------------- | ---------- | ------ |
+|       42 | Trapping Rain Water                | 接雨水                  | Hard       | Solved |
+|       53 | Maximum Subarray                   | 最大子序和              | Easy       | Solved |
+|       70 | Climbing Stairs                    | 爬楼梯                  | Easy       | Solved |
+|      121 | Best Time to Buy and Sell Stock    | 买卖股票的最佳时机      | Easy       | Solved |
+|      122 | Best Time to Buy and Sell Stock II | 买卖股票的最佳时机 II   | Easy       | Solved |
+|      123 | Best Time to Buy and Sell Stock II | 买卖股票的最佳时机 III  | Hard       | Solved |
+|      188 | Best Time to Buy and Sell Stock IV | 买卖股票的最佳时机 IV   | Hard       | Solved |
+|      198 | House Robber                       | 打家劫舍                | Easy       | Solved |
+|      300 | Longest Increasing Subsequence     | 最长递增子序列          | Medium     | Solved |
+|      303 | Range Sum Query - Immutable        | 区域和检索 - 数组不可变 | Easy       | Solved |
+|      322 | Coin Change                        | 零钱兑换                | Medium     | Solved |
+|      392 | Is Subsequence                     | 判断子序列              | Easy       | Solved |
+|      746 | Min Cost Climbing Stairs           | 使用最小花费爬楼梯      | Easy       | Solved |
+|     1025 | Divisor Game                       | 除数博弈                | Easy       | Todo   |
+| offer 09 | 用两个栈实现队列                   | 用两个栈实现队列        | Easy       | Solved |
+| offer 30 | 包含min函数的栈                    | 包含min函数的栈         | Easy       | Solved |
+| offer 63 | 股票的最大利润                     | 股票的最大利润          | Medium     | Solved |
+
+## Greedy 贪心算法
+
+|   No | Title                                      | 题名                   | Difficulty | Status |
+| ---: | ------------------------------------------ | ---------------------- | ---------- | ------ |
+|   45 | Jump Game II                               | 跳跃游戏 II            | Medium     | Todo   |
+|   55 | Jump Game                                  | 跳跃游戏               | Medium     | Todo   |
+|  122 | Best Time to Buy and Sell Stock II         | 买卖股票的最佳时机 II  | Easy       | Solved |
+|  300 | Longest Increasing Subsequence             | 最长递增子序列         | Medium     | Solved |
+|  376 | Wiggle Subsequence                         | 摆动序列               | Medium     | Solved |
+|  392 | Is Subsequence                             | 判断子序列             | Easy       | Solved |
+|  435 | Non-overlapping Intervals                  | 无重叠区间             | Medium     | Todo   |
+|  452 | Minimum Number of Arrows to Burst Balloons | 用最少数量的箭引爆气球 | Medium     | Todo   |
+|  455 | Assign Cookies                             | 分发饼干               | Easy       | Solved |
+|  605 | Can Place Flowers                          | 种花问题               | Easy       | Todo   |
+
 
 ## Backtracking 回溯
 
@@ -224,17 +244,8 @@ My solution to LeetCode problems using Golang
 
 ## Design 设计
 
-|   No | Title     | 题名         | Difficulty | Status |
-| ---: | --------- | ------------ | ---------- | ------ |
-|  146 | LRU Cache | LRU 缓存机制 | Medium     | Solved |
-|  460 | LFU Cache | LFU 缓存机制 | Hard       | Todo   |
-
-## Greedy 贪心算法
-
-|   No | Title                          | 题名           | Difficulty | Status |
-| ---: | ------------------------------ | -------------- | ---------- | ------ |
-|  300 | Longest Increasing Subsequence | 最长递增子序列 | Medium     | Solved |
-|  392 | Is Subsequence                 | 判断子序列     | Easy       | Solved |
-|  435 | Non-overlapping Intervals      | 无重叠区间     | Medium     | Todo   |
-|  455 | Assign Cookies                 | 分发饼干       | Easy       | Solved |
-
+|              No | Title     | 题名         | Difficulty | Status |
+| --------------: | --------- | ------------ | ---------- | ------ |
+|             146 | LRU Cache | LRU 缓存机制 | Medium     | Solved |
+|             460 | LFU Cache | LFU 缓存机制 | Hard       | Todo   |
+| interview 16.25 | LRU 缓存  | LRU 缓存     | Medium     | Solved |

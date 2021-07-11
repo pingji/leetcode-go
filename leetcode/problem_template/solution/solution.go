@@ -1,5 +1,5 @@
 package solution
 
-func foo(n int) int {
-	return n
+func foo(nums []int) int {
+	return 0
 }
