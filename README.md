@@ -87,7 +87,7 @@ My solution to LeetCode problems using Golang
 |   21 | Merge Two Sorted Lists             | 合并两个有序链表         | Easy       | Solved |
 |   23 | Merge k Sorted Lists               | 合并 K 个升序链表        | Hard       | Solved |
 |   24 | Swap Nodes in Pairs                | 两两交换链表中的节点     | Medium     | Todo   |
-|   25 | Reverse Nodes in k-Group           | K 个一组翻转链表         | Medium     | Todo   |
+|   25 | Reverse Nodes in k-Group           | K 个一组翻转链表         | Medium     | Solved |
 |   61 | Rotate List                        | 旋转链表                 | Medium     | Todo   |
 |   83 | Remove Duplicates from Sorted List | 删除排序链表中的重复元素 | Easy       | Solved |
 |   86 | Partition List                     | 分隔链表                 | Medium     | Todo   |
