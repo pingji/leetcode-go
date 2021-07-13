@@ -90,7 +90,7 @@ My solution to LeetCode problems using Golang
 |       25 | Reverse Nodes in k-Group           | K 个一组翻转链表         | Medium     | Solved |
 |       61 | Rotate List                        | 旋转链表                 | Medium     | Solved |
 |       83 | Remove Duplicates from Sorted List | 删除排序链表中的重复元素 | Easy       | Solved |
-|       86 | Partition List                     | 分隔链表                 | Medium     | Todo   |
+|       86 | Partition List                     | 分隔链表                 | Medium     | Solved |
 |       92 | Reverse Linked List II             | 反转链表 II              | Medium     | Solved |
 |      141 | Linked List Cycle                  | 环形链表                 | Easy       | Solved |
 |      143 | Reorder List                       | 重排链表                 | Medium     | Todo   |
@@ -102,12 +102,12 @@ My solution to LeetCode problems using Golang
 |      237 | Delete Node in a Linked List       | 删除链表中的节点         | Easy       | Solved |
 |      328 | Odd Even Linked List               | 奇偶链表                 | Medium     | Todo   |
 |      445 | Add Two Numbers II                 | 两数相加 II              | Medium     | Todo   |
-| offer 06 | 从尾到头打印链表                   | 从尾到头打印链表         | Easy       | Todo   |
-| offer 18 | 删除链表的节点                     | 删除链表的节点           | Easy       | Todo   |
+| offer 06 | 从尾到头打印链表                   | 从尾到头打印链表         | Easy       | Solved |
+| offer 18 | 删除链表的节点                     | 删除链表的节点           | Easy       | Solved |
 | offer 22 | 链表中倒数第k个节点                | 链表中倒数第k个节点      | Easy       | Solved |
 | offer 24 | 反转链表                           | 反转链表                 | Easy       | Solved |
-| offer 25 | 合并两个排序的链表                 | 合并两个排序的链表       | Easy       | Todo   |
-| offer 35 | 复杂链表的复制                     | 复杂链表的复制           | Medium     | Todo   |
+| offer 25 | 合并两个排序的链表                 | 合并两个排序的链表       | Easy       | Solved |
+| offer 35 | 复杂链表的复制                     | 复杂链表的复制           | Medium     | Solved |
 
 ## Binary Search 二叉搜索树
 
