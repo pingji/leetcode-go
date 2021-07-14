@@ -253,5 +253,5 @@ My solution to LeetCode problems using Golang
 |              No | Title     | 题名         | Difficulty | Status |
 | --------------: | --------- | ------------ | ---------- | ------ |
 |             146 | LRU Cache | LRU 缓存机制 | Medium     | Solved |
-|             460 | LFU Cache | LFU 缓存机制 | Hard       | Todo   |
+|             460 | LFU Cache | LFU 缓存机制 | Hard       | Solved |
 | interview 16.25 | LRU 缓存  | LRU 缓存     | Medium     | Solved |
