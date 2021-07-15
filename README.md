@@ -224,7 +224,7 @@ My solution to LeetCode problems using Golang
 | -------: | ------------------------------------- | ------------------ | ---------- | ------ |
 |       17 | Letter Combinations of a Phone Number | 电话号码的字母组合 | Medium     | Solved |
 |       22 | Generate Parentheses                  | 括号生成           | Medium     | Solved |
-|       37 | Sudoku Solver                         | 解数独             | Hard       | Todo   |
+|       37 | Sudoku Solver                         | 解数独             | Hard       | Solved |
 |       46 | Permutations                          | 全排列             | Medium     | Solved |
 |       47 | Permutations II                       | 全排列 II          | Medium     | Solved |
 |       51 | N-Queens                              | N 皇后             | Hard       | Solved |
