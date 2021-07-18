@@ -7,36 +7,24 @@ import (
 )
 
 type Input struct {
-	nums []int
+	s string
 }
 
 func TestProblem(t *testing.T) {
 	assert := assert.New(t)
 	tests := []struct {
 		input  Input
-		output int
+		output string
 	}{
 		{
 			input: Input{
-				[]int{1, 2, 3},
+				"We are happy.",
 			},
-			output: 0,
-		},
-		{
-			input: Input{
-				[]int{1, 2, 3},
-			},
-			output: 0,
-		},
-		{
-			input: Input{
-				[]int{1, 2, 3},
-			},
-			output: 0,
+			output: "We%20are%20happy.",
 		},
 	}
 	for index, test := range tests {
-		output := foo(test.input.nums)
+		output := replaceSpace(test.input.s)
 		t.Logf("index: %v, input: %v, output %v", index, test.input, output)
 		assert.Equal(test.output, output)
 	}

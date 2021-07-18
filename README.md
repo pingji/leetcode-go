@@ -4,16 +4,17 @@ My solution to LeetCode problems using Golang
 
 ## Array 数组
 
-|   No | Title                                  | 题名                      | Difficulty | Status |
-| ---: | -------------------------------------- | ------------------------- | ---------- | ------ |
-|   11 | Container With Most Water              | 盛最多水的容器            | Medium     | Solved |
-|   26 | Remove Duplicates from Sorted Array    | 删除有序数组中的重复项    | Easy       | Solved |
-|   27 | Remove Element                         | 移除元素                  | Easy       | Solved |
-|   75 | Sort Colors                            | 颜色分类                  | Medium     | Solved |
-|   80 | Remove Duplicates from Sorted Array II | 删除有序数组中的重复项 II | Medium     | Solved |
-|   88 | Merge Sorted Array                     | 合并两个有序数组          | Easy       | Todo   |
-|  215 | Kth Largest Element in an Array        | 数组中的第K个最大元素     | Medium     | Todo   |
-|  283 | Move Zeroes                            | 移动零                    | Easy       | Solved |
+|       No | Title                                  | 题名                      | Difficulty | Status |
+| -------: | -------------------------------------- | ------------------------- | ---------- | ------ |
+|       11 | Container With Most Water              | 盛最多水的容器            | Medium     | Solved |
+|       26 | Remove Duplicates from Sorted Array    | 删除有序数组中的重复项    | Easy       | Solved |
+|       27 | Remove Element                         | 移除元素                  | Easy       | Solved |
+|       75 | Sort Colors                            | 颜色分类                  | Medium     | Solved |
+|       80 | Remove Duplicates from Sorted Array II | 删除有序数组中的重复项 II | Medium     | Solved |
+|       88 | Merge Sorted Array                     | 合并两个有序数组          | Easy       | Todo   |
+|      215 | Kth Largest Element in an Array        | 数组中的第K个最大元素     | Medium     | Todo   |
+|      283 | Move Zeroes                            | 移动零                    | Easy       | Solved |
+| offer 02 | 二维数组中的查找                       | 二维数组中的查找          | Medium     | Solved |
 
 
 ## Sliding Window 滑动窗口
@@ -29,10 +30,11 @@ My solution to LeetCode problems using Golang
 
 ## String 字符串
 
-|   No | Title                         | 题名               | Difficulty | Status |
-| ---: | ----------------------------- | ------------------ | ---------- | ------ |
-|    5 | Longest Palindromic Substring | 最长回文子串       | Medium     | Solved |
-|  151 | Reverse Words in a String     | 翻转字符串里的单词 | Medium     | Solved |
+|       No | Title                         | 题名               | Difficulty | Status |
+| -------: | ----------------------------- | ------------------ | ---------- | ------ |
+|        5 | Longest Palindromic Substring | 最长回文子串       | Medium     | Solved |
+|      151 | Reverse Words in a String     | 翻转字符串里的单词 | Medium     | Solved |
+| offer 05 | 替换空格                      | 替换空格           | Easy       | Solved |
 
 ## Sort 排序
 
@@ -182,25 +184,30 @@ My solution to LeetCode problems using Golang
 
 ## Dynamic Programming 动态规划
 
-|       No | Title                              | 题名                    | Difficulty | Status |
-| -------: | ---------------------------------- | ----------------------- | ---------- | ------ |
-|       42 | Trapping Rain Water                | 接雨水                  | Hard       | Solved |
-|       53 | Maximum Subarray                   | 最大子序和              | Easy       | Solved |
-|       70 | Climbing Stairs                    | 爬楼梯                  | Easy       | Solved |
-|      121 | Best Time to Buy and Sell Stock    | 买卖股票的最佳时机      | Easy       | Solved |
-|      122 | Best Time to Buy and Sell Stock II | 买卖股票的最佳时机 II   | Easy       | Solved |
-|      123 | Best Time to Buy and Sell Stock II | 买卖股票的最佳时机 III  | Hard       | Solved |
-|      188 | Best Time to Buy and Sell Stock IV | 买卖股票的最佳时机 IV   | Hard       | Solved |
-|      198 | House Robber                       | 打家劫舍                | Easy       | Solved |
-|      300 | Longest Increasing Subsequence     | 最长递增子序列          | Medium     | Solved |
-|      303 | Range Sum Query - Immutable        | 区域和检索 - 数组不可变 | Easy       | Solved |
-|      322 | Coin Change                        | 零钱兑换                | Medium     | Solved |
-|      392 | Is Subsequence                     | 判断子序列              | Easy       | Solved |
-|      746 | Min Cost Climbing Stairs           | 使用最小花费爬楼梯      | Easy       | Solved |
-|     1025 | Divisor Game                       | 除数博弈                | Easy       | Todo   |
-| offer 09 | 用两个栈实现队列                   | 用两个栈实现队列        | Easy       | Solved |
-| offer 30 | 包含min函数的栈                    | 包含min函数的栈         | Easy       | Solved |
-| offer 63 | 股票的最大利润                     | 股票的最大利润          | Medium     | Solved |
+|          No | Title                              | 题名                    | Difficulty | Status |
+| ----------: | ---------------------------------- | ----------------------- | ---------- | ------ |
+|          42 | Trapping Rain Water                | 接雨水                  | Hard       | Solved |
+|          53 | Maximum Subarray                   | 最大子序和              | Easy       | Solved |
+|          70 | Climbing Stairs                    | 爬楼梯                  | Easy       | Solved |
+|         121 | Best Time to Buy and Sell Stock    | 买卖股票的最佳时机      | Easy       | Solved |
+|         122 | Best Time to Buy and Sell Stock II | 买卖股票的最佳时机 II   | Easy       | Solved |
+|         123 | Best Time to Buy and Sell Stock II | 买卖股票的最佳时机 III  | Hard       | Solved |
+|         188 | Best Time to Buy and Sell Stock IV | 买卖股票的最佳时机 IV   | Hard       | Solved |
+|         198 | House Robber                       | 打家劫舍                | Easy       | Solved |
+|         300 | Longest Increasing Subsequence     | 最长递增子序列          | Medium     | Solved |
+|         303 | Range Sum Query - Immutable        | 区域和检索 - 数组不可变 | Easy       | Solved |
+|         322 | Coin Change                        | 零钱兑换                | Medium     | Solved |
+|         392 | Is Subsequence                     | 判断子序列              | Easy       | Solved |
+|         509 | Fibonacci Number                   | 斐波那契数              | Easy       | Solved |
+|         746 | Min Cost Climbing Stairs           | 使用最小花费爬楼梯      | Easy       | Solved |
+|        1025 | Divisor Game                       | 除数博弈                | Easy       | Todo   |
+|        1137 | N-th Tribonacci Number             | 第 N 个泰波那契数       | Easy       | Solved |
+|    offer 09 | 用两个栈实现队列                   | 用两个栈实现队列        | Easy       | Solved |
+|  offer 10-I | 斐波那契数列                       | 斐波那契数列            | Easy       | Solved |
+| offer 10-II | 青蛙跳台阶问题                     | 青蛙跳台阶问题          | Easy       | Todo   |
+|    offer 09 | 用两个栈实现队列                   | 用两个栈实现队列        | Easy       | Solved |
+|    offer 30 | 包含min函数的栈                    | 包含min函数的栈         | Easy       | Solved |
+|    offer 63 | 股票的最大利润                     | 股票的最大利润          | Medium     | Solved |
 
 ## Greedy 贪心算法
 
