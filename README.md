@@ -204,7 +204,7 @@ My solution to LeetCode problems using Golang
 |        1137 | N-th Tribonacci Number             | 第 N 个泰波那契数       | Easy       | Solved |
 |    offer 09 | 用两个栈实现队列                   | 用两个栈实现队列        | Easy       | Solved |
 |  offer 10-I | 斐波那契数列                       | 斐波那契数列            | Easy       | Solved |
-| offer 10-II | 青蛙跳台阶问题                     | 青蛙跳台阶问题          | Easy       | Todo   |
+| offer 10-II | 青蛙跳台阶问题                     | 青蛙跳台阶问题          | Easy       | Solved |
 |    offer 09 | 用两个栈实现队列                   | 用两个栈实现队列        | Easy       | Solved |
 |    offer 30 | 包含min函数的栈                    | 包含min函数的栈         | Easy       | Solved |
 |    offer 63 | 股票的最大利润                     | 股票的最大利润          | Medium     | Solved |

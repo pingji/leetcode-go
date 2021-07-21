@@ -7,7 +7,7 @@ import (
 )
 
 type Input struct {
-	n int
+	nums []int
 }
 
 func TestProblem(t *testing.T) {
@@ -18,31 +18,25 @@ func TestProblem(t *testing.T) {
 	}{
 		{
 			input: Input{
-				2,
+				[]int{1, 2, 3},
 			},
-			output: 2,
+			output: 0,
 		},
 		{
 			input: Input{
-				3,
+				[]int{1, 2, 3},
 			},
-			output: 3,
+			output: 0,
 		},
 		{
 			input: Input{
-				7,
+				[]int{1, 2, 3},
 			},
-			output: 21,
-		},
-		{
-			input: Input{
-				0,
-			},
-			output: 1,
+			output: 0,
 		},
 	}
 	for index, test := range tests {
-		output := numWays(test.input.n)
+		output := foo(test.input.nums)
 		t.Logf("index: %v, input: %v, output %v", index, test.input, output)
 		assert.Equal(test.output, output)
 	}
