@@ -113,18 +113,21 @@ My solution to LeetCode problems using Golang
 
 ## Binary Search 二叉搜索树
 
-|   No | Title                              | 题名                       | Difficulty | Status |
-| ---: | ---------------------------------- | -------------------------- | ---------- | ------ |
-|   35 | Search Insert Position             | 搜索插入位置               | Easy       | Solved |
-|   50 | Pow(x, n)                          | Pow(x, n)                  | Medium     | Solved |
-|   69 | Sqrt(x)                            | x 的平方根                 | Easy       | Solved |
-|  167 | Two Sum II - Input array is sorted | 两数之和 II - 输入有序数组 | Easy       | Todo   |
-|  270 | Closest Binary Search Tree Value   | 最接近的二叉搜索树值       | Easy       | Todo   |
-|  278 | First Bad Version                  | 第一个错误的版本           | Easy       | Todo   |
-|  349 | Intersection of Two Arrays         | 两个数组的交集             | Easy       | Todo   |
-|  350 | Intersection of Two Arrays II      | 两个数组的交集 II          | Easy       | Todo   |
-|  392 | Is Subsequence                     | 判断子序列                 | Easy       | Solved |
-|  704 | Binary Search                      | 二分查找                   | Easy       | Solved |
+|       No | Title                                   | 题名                          | Difficulty | Status |
+| -------: | --------------------------------------- | ----------------------------- | ---------- | ------ |
+|       35 | Search Insert Position                  | 搜索插入位置                  | Easy       | Solved |
+|       50 | Pow(x, n)                               | Pow(x, n)                     | Medium     | Solved |
+|       69 | Sqrt(x)                                 | x 的平方根                    | Easy       | Solved |
+|      153 | Find Minimum in Rotated Sorted Array    | 寻找旋转排序数组中的最小值    | Medium     | Solved |
+|      154 | Find Minimum in Rotated Sorted Array II | 寻找旋转排序数组中的最小值 II | Hard       | Solved |
+|      167 | Two Sum II - Input array is sorted      | 两数之和 II - 输入有序数组    | Easy       | Todo   |
+|      270 | Closest Binary Search Tree Value        | 最接近的二叉搜索树值          | Easy       | Todo   |
+|      278 | First Bad Version                       | 第一个错误的版本              | Easy       | Todo   |
+|      349 | Intersection of Two Arrays              | 两个数组的交集                | Easy       | Todo   |
+|      350 | Intersection of Two Arrays II           | 两个数组的交集 II             | Easy       | Todo   |
+|      392 | Is Subsequence                          | 判断子序列                    | Easy       | Solved |
+|      704 | Binary Search                           | 二分查找                      | Easy       | Solved |
+| offer 11 | 旋转数组的最小数字                      | 旋转数组的最小数字            | Easy       | Solved |
 
 ## Stack 栈
 
