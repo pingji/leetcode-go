@@ -115,9 +115,11 @@ My solution to LeetCode problems using Golang
 
 |       No | Title                                   | 题名                          | Difficulty | Status |
 | -------: | --------------------------------------- | ----------------------------- | ---------- | ------ |
+|       33 | Search in Rotated Sorted Array          | 搜索旋转排序数组              | Medium     | Solved |
 |       35 | Search Insert Position                  | 搜索插入位置                  | Easy       | Solved |
 |       50 | Pow(x, n)                               | Pow(x, n)                     | Medium     | Solved |
 |       69 | Sqrt(x)                                 | x 的平方根                    | Easy       | Solved |
+|       81 | Search in Rotated Sorted Array II       | 搜索旋转排序数组 II           | Medium     | Solved |
 |      153 | Find Minimum in Rotated Sorted Array    | 寻找旋转排序数组中的最小值    | Medium     | Solved |
 |      154 | Find Minimum in Rotated Sorted Array II | 寻找旋转排序数组中的最小值 II | Hard       | Solved |
 |      167 | Two Sum II - Input array is sorted      | 两数之和 II - 输入有序数组    | Easy       | Todo   |
