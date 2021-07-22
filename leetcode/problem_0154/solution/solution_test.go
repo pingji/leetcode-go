@@ -28,6 +28,12 @@ func TestProblem(t *testing.T) {
 			},
 			output: 0,
 		},
+		{
+			input: Input{
+				[]int{1, 3, 1},
+			},
+			output: 1,
+		},
 	}
 	for index, test := range tests {
 		output := findMin(test.input.nums)
