@@ -110,6 +110,7 @@ My solution to LeetCode problems using Golang
 | offer 24 | 反转链表                           | 反转链表                 | Easy       | Solved |
 | offer 25 | 合并两个排序的链表                 | 合并两个排序的链表       | Easy       | Solved |
 | offer 35 | 复杂链表的复制                     | 复杂链表的复制           | Medium     | Solved |
+|    NC 78 | 反转链表                           | 反转链表                 | Easy       | Solved |
 
 ## Binary Search 二叉搜索树
 
