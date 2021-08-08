@@ -50,11 +50,15 @@ My solution to LeetCode problems using Golang
 
 ## Two Pointers 双指针
 
-|   No | Title               | 题名       | Difficulty | Status |
-| ---: | ------------------- | ---------- | ---------- | ------ |
-|   20 | Valid Parentheses   | 有效的括号 | Easy       | Solved |
-|   42 | Trapping Rain Water | 接雨水     | hard       | Todo   |
-|  392 | Is Subsequence      | 判断子序列 | Easy       | Solved |
+|   No | Title                              | 题名                       | Difficulty | Status |
+| ---: | ---------------------------------- | -------------------------- | ---------- | ------ |
+|   20 | Valid Parentheses                  | 有效的括号                 | Easy       | Solved |
+|   42 | Trapping Rain Water                | 接雨水                     | hard       | Todo   |
+|  167 | Two Sum II - Input array is sorted | 两数之和 II - 输入有序数组 | Easy       | Todo   |
+|  189 | Rotate Array                       | 旋转数组                   | Medium     | Solved |
+|  283 | Move Zeroes                        | 移动零                     | Easy       | Todo   |
+|  392 | Is Subsequence                     | 判断子序列                 | Easy       | Solved |
+|  977 | Squares of a Sorted Array          | 有序数组的平方             | Easy       | Solved |
 
 
 ## Prefix Sum 前缀和
@@ -126,7 +130,7 @@ My solution to LeetCode problems using Golang
 |      154 | Find Minimum in Rotated Sorted Array II | 寻找旋转排序数组中的最小值 II | Hard       | Solved |
 |      167 | Two Sum II - Input array is sorted      | 两数之和 II - 输入有序数组    | Easy       | Todo   |
 |      270 | Closest Binary Search Tree Value        | 最接近的二叉搜索树值          | Easy       | Todo   |
-|      278 | First Bad Version                       | 第一个错误的版本              | Easy       | Todo   |
+|      278 | First Bad Version                       | 第一个错误的版本              | Easy       | Solved |
 |      349 | Intersection of Two Arrays              | 两个数组的交集                | Easy       | Todo   |
 |      350 | Intersection of Two Arrays II           | 两个数组的交集 II             | Easy       | Todo   |
 |      392 | Is Subsequence                          | 判断子序列                    | Easy       | Solved |
