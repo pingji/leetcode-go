@@ -14,6 +14,7 @@ My solution to LeetCode problems using Golang
 |       88 | Merge Sorted Array                     | 合并两个有序数组          | Easy       | Todo   |
 |      215 | Kth Largest Element in an Array        | 数组中的第K个最大元素     | Medium     | Todo   |
 |      283 | Move Zeroes                            | 移动零                    | Easy       | Solved |
+|      347 | Top K Frequent Elements                | 前 K 个高频元素           | Medium     | Solved |
 | offer 02 | 二维数组中的查找                       | 二维数组中的查找          | Medium     | Solved |
 
 
