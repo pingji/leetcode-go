@@ -13,6 +13,7 @@ My solution to LeetCode problems using Golang
 |       80 | Remove Duplicates from Sorted Array II | 删除有序数组中的重复项 II | Medium     | Solved |
 |       88 | Merge Sorted Array                     | 合并两个有序数组          | Easy       | Todo   |
 |      215 | Kth Largest Element in an Array        | 数组中的第K个最大元素     | Medium     | Todo   |
+|      217 | Contains Duplicate                     | 存在重复元素              | Easy       | Solved |
 |      283 | Move Zeroes                            | 移动零                    | Easy       | Solved |
 |      347 | Top K Frequent Elements                | 前 K 个高频元素           | Medium     | Solved |
 | offer 02 | 二维数组中的查找                       | 二维数组中的查找          | Medium     | Solved |
@@ -54,7 +55,7 @@ My solution to LeetCode problems using Golang
 | ---: | ---------------------------------- | -------------------------- | ---------- | ------ |
 |   20 | Valid Parentheses                  | 有效的括号                 | Easy       | Solved |
 |   42 | Trapping Rain Water                | 接雨水                     | hard       | Todo   |
-|  167 | Two Sum II - Input array is sorted | 两数之和 II - 输入有序数组 | Easy       | Todo   |
+|  167 | Two Sum II - Input array is sorted | 两数之和 II - 输入有序数组 | Easy       | Solved |
 |  189 | Rotate Array                       | 旋转数组                   | Medium     | Solved |
 |  283 | Move Zeroes                        | 移动零                     | Easy       | Todo   |
 |  392 | Is Subsequence                     | 判断子序列                 | Easy       | Solved |
@@ -128,7 +129,6 @@ My solution to LeetCode problems using Golang
 |       81 | Search in Rotated Sorted Array II       | 搜索旋转排序数组 II           | Medium     | Solved |
 |      153 | Find Minimum in Rotated Sorted Array    | 寻找旋转排序数组中的最小值    | Medium     | Solved |
 |      154 | Find Minimum in Rotated Sorted Array II | 寻找旋转排序数组中的最小值 II | Hard       | Solved |
-|      167 | Two Sum II - Input array is sorted      | 两数之和 II - 输入有序数组    | Easy       | Todo   |
 |      270 | Closest Binary Search Tree Value        | 最接近的二叉搜索树值          | Easy       | Todo   |
 |      278 | First Bad Version                       | 第一个错误的版本              | Easy       | Solved |
 |      349 | Intersection of Two Arrays              | 两个数组的交集                | Easy       | Todo   |
