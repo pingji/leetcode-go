@@ -50,6 +50,13 @@ My solution to LeetCode problems using Golang
 |      912 | Sort an Array      | 排序数组       | Medium     | Solved |
 | offer 51 | 数组中的逆序对     | 数组中的逆序对 | Hard       | Solved |
 
+## Topological Sort 拓扑排序
+
+|   No | Title              | 题名      | Difficulty | Status |
+| ---: | ------------------ | --------- | ---------- | ------ |
+|  207 | Course Schedule    | 课程表    | Medium     | Todo   |
+|  210 | Course Schedule II | 课程表 II | Medium     | Todo   |
+
 ## Two Pointers 双指针
 
 |   No | Title                              | 题名                       | Difficulty | Status |
@@ -239,23 +246,24 @@ My solution to LeetCode problems using Golang
 
 ## Backtracking 回溯
 
-|       No | Title                                 | 题名               | Difficulty | Status |
-| -------: | ------------------------------------- | ------------------ | ---------- | ------ |
-|       17 | Letter Combinations of a Phone Number | 电话号码的字母组合 | Medium     | Solved |
-|       22 | Generate Parentheses                  | 括号生成           | Medium     | Solved |
-|       37 | Sudoku Solver                         | 解数独             | Hard       | Solved |
-|       46 | Permutations                          | 全排列             | Medium     | Solved |
-|       47 | Permutations II                       | 全排列 II          | Medium     | Solved |
-|       51 | N-Queens                              | N 皇后             | Hard       | Solved |
-|       52 | N-Queens II                           | N 皇后 II          | Hard       | Solved |
-|       77 | Combinations                          | 组合               | Medium     | Solved |
-|       78 | Subsets                               | 子集               | Medium     | Solved |
-|       79 | Word Search                           | 单词搜索           | Medium     | Todo   |
-|       90 | Subsets II                            | 子集 II            | Medium     | Solved |
-|       93 | Restore IP Addresses                  | 复原 IP 地址       | Medium     | Todo   |
-|      131 | Palindrome Partitioning               | 分割回文串         | Medium     | Todo   |
-| offer 12 | 矩阵中的路径                          | 矩阵中的路径       | Medium     | Todo   |
-| offer 38 | 字符串的排列                          | 字符串的排列       | Medium     | Todo   |
+|       No | Title                                 | 题名                   | Difficulty | Status |
+| -------: | ------------------------------------- | ---------------------- | ---------- | ------ |
+|       17 | Letter Combinations of a Phone Number | 电话号码的字母组合     | Medium     | Solved |
+|       22 | Generate Parentheses                  | 括号生成               | Medium     | Solved |
+|       37 | Sudoku Solver                         | 解数独                 | Hard       | Solved |
+|       46 | Permutations                          | 全排列                 | Medium     | Solved |
+|       47 | Permutations II                       | 全排列 II              | Medium     | Solved |
+|       51 | N-Queens                              | N 皇后                 | Hard       | Solved |
+|       52 | N-Queens II                           | N 皇后 II              | Hard       | Solved |
+|       77 | Combinations                          | 组合                   | Medium     | Solved |
+|       78 | Subsets                               | 子集                   | Medium     | Solved |
+|       79 | Word Search                           | 单词搜索               | Medium     | Todo   |
+|       90 | Subsets II                            | 子集 II                | Medium     | Solved |
+|       93 | Restore IP Addresses                  | 复原 IP 地址           | Medium     | Todo   |
+|      131 | Palindrome Partitioning               | 分割回文串             | Medium     | Todo   |
+| offer 12 | 矩阵中的路径                          | 矩阵中的路径           | Medium     | Todo   |
+| offer 38 | 字符串的排列                          | 字符串的排列           | Medium     | Todo   |
+|    NC 20 | 数字字符串转化成IP地址                | 数字字符串转化成IP地址 | Medium     | Todo   |
 
 ## Trie 字典树
 
