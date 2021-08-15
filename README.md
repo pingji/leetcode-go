@@ -121,7 +121,7 @@ My solution to LeetCode problems using Golang
 |      237 | Delete Node in a Linked List       | 删除链表中的节点         | Easy       | Solved |
 |      328 | Odd Even Linked List               | 奇偶链表                 | Medium     | Todo   |
 |      445 | Add Two Numbers II                 | 两数相加 II              | Medium     | Todo   |
-|      876 | Middle of the Linked List          | 链表的中间结点           | Easy       | Todo   |
+|      876 | Middle of the Linked List          | 链表的中间结点           | Easy       | Solved |
 | offer 06 | 从尾到头打印链表                   | 从尾到头打印链表         | Easy       | Solved |
 | offer 18 | 删除链表的节点                     | 删除链表的节点           | Easy       | Solved |
 | offer 22 | 链表中倒数第k个节点                | 链表中倒数第k个节点      | Easy       | Solved |
