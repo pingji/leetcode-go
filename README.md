@@ -66,7 +66,10 @@ My solution to LeetCode problems using Golang
 |  167 | Two Sum II - Input array is sorted | 两数之和 II - 输入有序数组 | Easy       | Solved |
 |  189 | Rotate Array                       | 旋转数组                   | Medium     | Solved |
 |  283 | Move Zeroes                        | 移动零                     | Easy       | Todo   |
+|  344 | Reverse String                     | 反转字符串                 | Easy       | Solved |
 |  392 | Is Subsequence                     | 判断子序列                 | Easy       | Solved |
+|  541 | Reverse String II                  | 反转字符串 II              | Easy       | Solved |
+|  557 | Reverse Words in a String III      | 反转字符串中的单词 III     | Easy       | Solved |
 |  977 | Squares of a Sorted Array          | 有序数组的平方             | Easy       | Solved |
 
 
@@ -118,6 +121,7 @@ My solution to LeetCode problems using Golang
 |      237 | Delete Node in a Linked List       | 删除链表中的节点         | Easy       | Solved |
 |      328 | Odd Even Linked List               | 奇偶链表                 | Medium     | Todo   |
 |      445 | Add Two Numbers II                 | 两数相加 II              | Medium     | Todo   |
+|      876 | Middle of the Linked List          | 链表的中间结点           | Easy       | Todo   |
 | offer 06 | 从尾到头打印链表                   | 从尾到头打印链表         | Easy       | Solved |
 | offer 18 | 删除链表的节点                     | 删除链表的节点           | Easy       | Solved |
 | offer 22 | 链表中倒数第k个节点                | 链表中倒数第k个节点      | Easy       | Solved |
