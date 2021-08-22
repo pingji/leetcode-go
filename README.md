@@ -165,6 +165,8 @@ My solution to LeetCode problems using Golang
 |  150 | Evaluate Reverse Polish Notation | 逆波兰表达式求值 | Medium     | Solved |
 |  225 | Implement Stack using Queues     | 用队列实现栈     | Easy       | Solved |
 |  232 | Implement Queue using Stacks     | 用栈实现队列     | Easy       | Solved |
+|  224 | Basic Calculator                 | 基本计算器       | Hard       | Todo   |
+|  227 | Basic Calculator II              | 基本计算器 II    | Medium     | Solved |
 |  394 | Decode String                    | 字符串解码       | Medium     | Todo   |
 
 ## Heap 堆
