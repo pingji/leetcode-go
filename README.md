@@ -82,21 +82,6 @@ My solution to LeetCode problems using Golang
 |  724 | Find Pivot Index               | 寻找数组的中心下标    | Easy       | Solved |
 |  974 | Subarray Sums Divisible by K   | 和可被 K 整除的子数组 | Medium     | Todo   |
 | 1248 | Count Number of Nice Subarrays | 统计「优美子数组」    | Medium     | Solved |
-## Tree 树
-
-|       No | Title                                                     | 题名                             | Difficulty | Status |
-| -------: | --------------------------------------------------------- | -------------------------------- | ---------- | ------ |
-|       94 | Binary Tree Inorder Traversal                             | 二叉树的中序遍历                 | Medium     | Solved |
-|      102 | Binary Tree Level Order Traversal                         | 二叉树的层序遍历                 | Medium     | Solved |
-|      105 | Construct Binary Tree from Preorder and Inorder Traversal | 从前序与中序遍历序列构造二叉树   | Medium     | Solved |
-|      107 | Binary Tree Level Order Traversal II                      | 二叉树的层序遍历 II              | Medium     | Solved |
-|      114 | Flatten Binary Tree to Linked List                        | 二叉树展开为链表                 | Medium     | Solved |
-|      116 | Populating Next Right Pointers in Each Node               | 填充每个节点的下一个右侧节点指针 | Medium     | Todo   |
-|      144 | Binary Tree Preorder Traversal                            | 二叉树的前序遍历                 | Medium     | Solved |
-|      145 | Binary Tree Postorder Traversal                           | 二叉树的后序遍历                 | Medium     | Solved |
-|      226 | Invert Binary Tree                                        | 翻转二叉树                       | Easy       | Solved |
-| offer 07 | 重建二叉树                                                | 重建二叉树                       | Medium     | Solved |
-
 ## LinkedList 链表
 
 |       No | Title                              | 题名                     | Difficulty | Status |
@@ -130,24 +115,43 @@ My solution to LeetCode problems using Golang
 | offer 35 | 复杂链表的复制                     | 复杂链表的复制           | Medium     | Solved |
 |    NC 78 | 反转链表                           | 反转链表                 | Easy       | Solved |
 
+## Tree 树
+
+|          No | Title                                                     | 题名                             | Difficulty | Status |
+| ----------: | --------------------------------------------------------- | -------------------------------- | ---------- | ------ |
+|          94 | Binary Tree Inorder Traversal                             | 二叉树的中序遍历                 | Medium     | Solved |
+|         102 | Binary Tree Level Order Traversal                         | 二叉树的层序遍历                 | Medium     | Solved |
+|         105 | Construct Binary Tree from Preorder and Inorder Traversal | 从前序与中序遍历序列构造二叉树   | Medium     | Solved |
+|         107 | Binary Tree Level Order Traversal II                      | 二叉树的层序遍历 II              | Medium     | Solved |
+|         114 | Flatten Binary Tree to Linked List                        | 二叉树展开为链表                 | Medium     | Solved |
+|         116 | Populating Next Right Pointers in Each Node               | 填充每个节点的下一个右侧节点指针 | Medium     | Todo   |
+|         144 | Binary Tree Preorder Traversal                            | 二叉树的前序遍历                 | Medium     | Solved |
+|         145 | Binary Tree Postorder Traversal                           | 二叉树的后序遍历                 | Medium     | Solved |
+|         226 | Invert Binary Tree                                        | 翻转二叉树                       | Easy       | Solved |
+|         236 | Lowest Common Ancestor of a Binary Tree                   | 二叉树的最近公共祖先             | Medium     | Todo   |
+|    offer 07 | 重建二叉树                                                | 重建二叉树                       | Medium     | Solved |
+| offer 68-II | 二叉树的最近公共祖先                                      | 二叉树的最近公共祖先             | Easy       | Todo   |
+
 ## Binary Search 二叉搜索树
 
-|       No | Title                                   | 题名                          | Difficulty | Status |
-| -------: | --------------------------------------- | ----------------------------- | ---------- | ------ |
-|       33 | Search in Rotated Sorted Array          | 搜索旋转排序数组              | Medium     | Solved |
-|       35 | Search Insert Position                  | 搜索插入位置                  | Easy       | Solved |
-|       50 | Pow(x, n)                               | Pow(x, n)                     | Medium     | Solved |
-|       69 | Sqrt(x)                                 | x 的平方根                    | Easy       | Solved |
-|       81 | Search in Rotated Sorted Array II       | 搜索旋转排序数组 II           | Medium     | Solved |
-|      153 | Find Minimum in Rotated Sorted Array    | 寻找旋转排序数组中的最小值    | Medium     | Solved |
-|      154 | Find Minimum in Rotated Sorted Array II | 寻找旋转排序数组中的最小值 II | Hard       | Solved |
-|      270 | Closest Binary Search Tree Value        | 最接近的二叉搜索树值          | Easy       | Todo   |
-|      278 | First Bad Version                       | 第一个错误的版本              | Easy       | Solved |
-|      349 | Intersection of Two Arrays              | 两个数组的交集                | Easy       | Todo   |
-|      350 | Intersection of Two Arrays II           | 两个数组的交集 II             | Easy       | Todo   |
-|      392 | Is Subsequence                          | 判断子序列                    | Easy       | Solved |
-|      704 | Binary Search                           | 二分查找                      | Easy       | Solved |
-| offer 11 | 旋转数组的最小数字                      | 旋转数组的最小数字            | Easy       | Solved |
+|         No | Title                                          | 题名                          | Difficulty | Status |
+| ---------: | ---------------------------------------------- | ----------------------------- | ---------- | ------ |
+|         33 | Search in Rotated Sorted Array                 | 搜索旋转排序数组              | Medium     | Solved |
+|         35 | Search Insert Position                         | 搜索插入位置                  | Easy       | Solved |
+|         50 | Pow(x, n)                                      | Pow(x, n)                     | Medium     | Solved |
+|         69 | Sqrt(x)                                        | x 的平方根                    | Easy       | Solved |
+|         81 | Search in Rotated Sorted Array II              | 搜索旋转排序数组 II           | Medium     | Solved |
+|        153 | Find Minimum in Rotated Sorted Array           | 寻找旋转排序数组中的最小值    | Medium     | Solved |
+|        154 | Find Minimum in Rotated Sorted Array II        | 寻找旋转排序数组中的最小值 II | Hard       | Solved |
+|        235 | Lowest Common Ancestor of a Binary Search Tree | 二叉搜索树的最近公共祖先      | Easy       | Todo   |
+|        270 | Closest Binary Search Tree Value               | 最接近的二叉搜索树值          | Easy       | Todo   |
+|        278 | First Bad Version                              | 第一个错误的版本              | Easy       | Solved |
+|        349 | Intersection of Two Arrays                     | 两个数组的交集                | Easy       | Todo   |
+|        350 | Intersection of Two Arrays II                  | 两个数组的交集 II             | Easy       | Todo   |
+|        392 | Is Subsequence                                 | 判断子序列                    | Easy       | Solved |
+|        704 | Binary Search                                  | 二分查找                      | Easy       | Solved |
+|   offer 11 | 旋转数组的最小数字                             | 旋转数组的最小数字            | Easy       | Solved |
+| offer 68-I | 二叉搜索树的最近公共祖先                       | 二叉搜索树的最近公共祖先      | Easy       | Todo   |
 
 ## Stack 栈
 
