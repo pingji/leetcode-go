@@ -22,3 +22,5 @@
 
 ## 3.3. 参考
 - [彻底吃透前中后序递归法和迭代法](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/solution/bang-ni-dui-er-cha-shu-bu-zai-mi-mang-che-di-chi-t/)
+- [详解二叉树的非递归遍历](https://blog.csdn.net/z_ryan/article/details/80854233)
+- [二叉树的非递归遍历的思考](https://zhuanlan.zhihu.com/p/81466547)
