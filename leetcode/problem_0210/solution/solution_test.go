@@ -30,7 +30,6 @@ func TestProblem(t *testing.T) {
 				[][]int{{1, 0}, {2, 0}, {3, 1}, {3, 2}},
 			},
 			output: []int{0, 1, 2, 3},
-			// output: []int{0, 2, 1, 3},
 		},
 	}
 	for index, test := range tests {

@@ -54,8 +54,8 @@ My solution to LeetCode problems using Golang
 
 |   No | Title              | 题名      | Difficulty | Status |
 | ---: | ------------------ | --------- | ---------- | ------ |
-|  207 | Course Schedule    | 课程表    | Medium     | Todo   |
-|  210 | Course Schedule II | 课程表 II | Medium     | Todo   |
+|  207 | Course Schedule    | 课程表    | Medium     | Solved |
+|  210 | Course Schedule II | 课程表 II | Medium     | Solved |
 
 ## Two Pointers 双指针
 
