@@ -7,7 +7,7 @@ import (
 )
 
 type Input struct {
-	nums []int
+	s string
 }
 
 func TestProblem(t *testing.T) {
@@ -18,25 +18,25 @@ func TestProblem(t *testing.T) {
 	}{
 		{
 			input: Input{
-				[]int{1, 2, 3},
+				"1 + 1",
 			},
-			output: 0,
+			output: 2,
 		},
 		{
 			input: Input{
-				[]int{1, 2, 3},
+				" 2-1 + 2 ",
 			},
-			output: 0,
+			output: 3,
 		},
 		{
 			input: Input{
-				[]int{1, 2, 3},
+				"(1+(4+5+2)-3)+(6+8)",
 			},
-			output: 0,
+			output: 23,
 		},
 	}
 	for index, test := range tests {
-		output := foo(test.input.nums)
+		output := calculate(test.input.s)
 		t.Logf("index: %v, input: %v, output %v", index, test.input, output)
 		assert.Equal(test.output, output)
 	}

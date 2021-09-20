@@ -1,5 +1,5 @@
 package solution
 
-func foo(nums []int) int {
+func calculate(s string) int {
 	return 0
 }
