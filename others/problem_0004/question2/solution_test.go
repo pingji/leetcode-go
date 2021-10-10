@@ -42,12 +42,12 @@ func (p *Producer) Produce() IWorkload {
 	}
 }
 
-func TestQuestion2Unlimited(t *testing.T) {
-	producer := NewProducer(10)
-	Question2Unlimited(producer)
-}
-
 func TestQuestion2(t *testing.T) {
 	producer := NewProducer(100)
 	Question2(producer)
 }
+
+// func TestQuestion2Unlimited(t *testing.T) {
+// 	producer := NewProducer(100)
+// 	Question2Unlimited(producer)
+// }

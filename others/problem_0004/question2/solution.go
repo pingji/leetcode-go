@@ -33,32 +33,6 @@ type IProducer interface {
 // 提示：请尽量使用规范的代码风格，使代码整洁易读
 // 提示：如果也实现了测试代码，请一并提交，将有利于分数评定
 
-func Question2Unlimited(producer IProducer) {
-
-	pool := &sync.Pool{
-		New: func() interface{} {
-			return producer.Produce()
-		},
-	}
-
-	wg := sync.WaitGroup{}
-	ch := make(chan bool, 5)
-
-	for item := pool.Get(); item != nil; item = pool.Get() {
-		ch <- true
-		wg.Add(1)
-		go func(item interface{}) {
-			defer wg.Done()
-			workload := item.(IWorkload)
-			workload.Work()
-			pool.Put(item)
-			<-ch
-		}(item)
-	}
-
-	wg.Wait()
-	fmt.Println("Finished")
-}
 
 func Question2(producer IProducer) {
 	wg := sync.WaitGroup{}
@@ -77,3 +51,31 @@ func Question2(producer IProducer) {
 	wg.Wait()
 	fmt.Println("Finished")
 }
+
+
+
+// func Question2Unlimited(producer IProducer) {
+// 	pool := &sync.Pool{
+// 		New: func() interface{} {
+// 			return producer.Produce()
+// 		},
+// 	}
+
+// 	wg := sync.WaitGroup{}
+// 	ch := make(chan bool, 5)
+
+// 	for item := pool.Get(); item != nil; item = pool.Get() {
+// 		ch <- true
+// 		wg.Add(1)
+// 		go func(item interface{}) {
+// 			defer wg.Done()
+// 			workload := item.(IWorkload)
+// 			workload.Work()
+// 			pool.Put(item)
+// 			<-ch
+// 		}(item)
+// 	}
+
+// 	wg.Wait()
+// 	fmt.Println("Finished")
+// }
