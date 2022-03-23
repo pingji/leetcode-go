@@ -139,7 +139,7 @@ My solution to LeetCode problems using Golang
 |          4 | Median of Two Sorted Arrays                             | 寻找两个正序数组的中位数                   | Hard       | Solved |
 |         29 | Divide Two Integers                                     | 两数相除                                   | Medium     | Solved |
 |         33 | Search in Rotated Sorted Array                          | 搜索旋转排序数组                           | Medium     | Solved |
-|         34 | Find First and Last Position of Element in Sorted Array | 在排序数组中查找元素的第一个和最后一个位置 | Medium     | Todo   |
+|         34 | Find First and Last Position of Element in Sorted Array | 在排序数组中查找元素的第一个和最后一个位置 | Medium     | Solved |
 |         35 | Search Insert Position                                  | 搜索插入位置                               | Easy       | Solved |
 |         50 | Pow(x, n)                                               | Pow(x, n)                                  | Medium     | Solved |
 |         69 | Sqrt(x)                                                 | x 的平方根                                 | Easy       | Solved |
