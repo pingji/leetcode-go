@@ -150,8 +150,6 @@ My solution to LeetCode problems using Golang
 |        235 | Lowest Common Ancestor of a Binary Search Tree          | 二叉搜索树的最近公共祖先                   | Easy       | Todo   |
 |        270 | Closest Binary Search Tree Value                        | 最接近的二叉搜索树值                       | Easy       | Todo   |
 |        278 | First Bad Version                                       | 第一个错误的版本                           | Easy       | Solved |
-|        349 | Intersection of Two Arrays                              | 两个数组的交集                             | Easy       | Todo   |
-|        350 | Intersection of Two Arrays II                           | 两个数组的交集 II                          | Easy       | Todo   |
 |        378 | Kth Smallest Element in a Sorted Matrix                 | 有序矩阵中第 K 小的元素                    | Medium     | Todo   |
 |        392 | Is Subsequence                                          | 判断子序列                                 | Easy       | Solved |
 |        704 | Binary Search                                           | 二分查找                                   | Easy       | Solved |
@@ -191,6 +189,8 @@ My solution to LeetCode problems using Golang
 |       13 | Roman to Integer                                     | 罗马数字转整数                   | Easy       | Solved |
 |       41 | First Missing Positive                               | 缺失的第一个正数                 | Hard       | Solved |
 |      128 | Longest Consecutive Sequence                         | 最长连续序列                     | Medium     | Solved |
+|      349 | Intersection of Two Arrays                           | 两个数组的交集                   | Easy       | Solved |
+|      350 | Intersection of Two Arrays II                        | 两个数组的交集 II                | Easy       | Todo   |
 |      454 | 4Sum II                                              | 四数相加 II                      | Medium     | Todo   |
 |      781 | Rabbits in Forest                                    | 森林中的兔子                     | Medium     | Solved |
 |     1178 | Number of Valid Words for Each Puzzle                | 猜字谜                           | Hard       | Todo   |
