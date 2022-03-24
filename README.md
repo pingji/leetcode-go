@@ -190,7 +190,7 @@ My solution to LeetCode problems using Golang
 |       41 | First Missing Positive                               | 缺失的第一个正数                 | Hard       | Solved |
 |      128 | Longest Consecutive Sequence                         | 最长连续序列                     | Medium     | Solved |
 |      349 | Intersection of Two Arrays                           | 两个数组的交集                   | Easy       | Solved |
-|      350 | Intersection of Two Arrays II                        | 两个数组的交集 II                | Easy       | Todo   |
+|      350 | Intersection of Two Arrays II                        | 两个数组的交集 II                | Easy       | Solved |
 |      454 | 4Sum II                                              | 四数相加 II                      | Medium     | Todo   |
 |      781 | Rabbits in Forest                                    | 森林中的兔子                     | Medium     | Solved |
 |     1178 | Number of Valid Words for Each Puzzle                | 猜字谜                           | Hard       | Todo   |
