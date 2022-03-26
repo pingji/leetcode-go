@@ -97,7 +97,7 @@ My solution to LeetCode problems using Golang
 |       86 | Partition List                     | 分隔链表                 | Medium     | Solved |
 |       92 | Reverse Linked List II             | 反转链表 II              | Medium     | Solved |
 |      141 | Linked List Cycle                  | 环形链表                 | Easy       | Solved |
-|      143 | Reorder List                       | 重排链表                 | Medium     | Todo   |
+|      143 | Reorder List                       | 重排链表                 | Medium     | Solved |
 |      147 | Insertion Sort List                | 对链表进行插入排序       | Medium     | Todo   |
 |      148 | Sort List                          | 排序链表                 | Medium     | Solved |
 |      203 | Remove Linked List Elements        | 移除链表元素             | Easy       | Solved |
