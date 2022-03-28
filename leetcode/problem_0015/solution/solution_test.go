@@ -34,6 +34,12 @@ func TestProblem(t *testing.T) {
 			},
 			output: [][]int{},
 		},
+		{
+			input: Input{
+				[]int{0, 0, 0},
+			},
+			output: [][]int{{0, 0, 0}},
+		},
 	}
 	for index, test := range tests {
 		output := threeSum(test.input.nums)
