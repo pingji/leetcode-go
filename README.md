@@ -7,7 +7,7 @@ My solution to LeetCode problems using Golang
 |       No | Title                                  | 题名                      | Difficulty | Status |
 | -------: | -------------------------------------- | ------------------------- | ---------- | ------ |
 |       11 | Container With Most Water              | 盛最多水的容器            | Medium     | Solved |
-|       15 | 3Sum                                   | 三数之和                  | Medium     | Todo   |
+|       15 | 3Sum                                   | 三数之和                  | Medium     | Solved |
 |       16 | 3Sum Closest                           | 最接近的三数之和          | Medium     | Todo   |
 |       18 | 4Sum                                   | 四数之和                  | Medium     | Todo   |
 |       26 | Remove Duplicates from Sorted Array    | 删除有序数组中的重复项    | Easy       | Solved |
