@@ -9,7 +9,7 @@ My solution to LeetCode problems using Golang
 |       11 | Container With Most Water              | 盛最多水的容器            | Medium     | Solved |
 |       15 | 3Sum                                   | 三数之和                  | Medium     | Solved |
 |       16 | 3Sum Closest                           | 最接近的三数之和          | Medium     | Solved |
-|       18 | 4Sum                                   | 四数之和                  | Medium     | Todo   |
+|       18 | 4Sum                                   | 四数之和                  | Medium     | Solved |
 |       26 | Remove Duplicates from Sorted Array    | 删除有序数组中的重复项    | Easy       | Solved |
 |       27 | Remove Element                         | 移除元素                  | Easy       | Solved |
 |       75 | Sort Colors                            | 颜色分类                  | Medium     | Solved |
