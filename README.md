@@ -131,7 +131,8 @@ My solution to LeetCode problems using Golang
 |         144 | Binary Tree Preorder Traversal                            | 二叉树的前序遍历                 | Medium     | Solved |
 |         145 | Binary Tree Postorder Traversal                           | 二叉树的后序遍历                 | Medium     | Solved |
 |         226 | Invert Binary Tree                                        | 翻转二叉树                       | Easy       | Solved |
-|         236 | Lowest Common Ancestor of a Binary Tree                   | 二叉树的最近公共祖先             | Medium     | Todo   |
+|         236 | Lowest Common Ancestor of a Binary Tree                   | 二叉树的最近公共祖先             | Medium     | Solved  |
+|         297 | Serialize and Deserialize Binary Tree                  | 二叉树的序列化与反序列化             | Hard     | Todo   |
 |    offer 07 | 重建二叉树                                                | 重建二叉树                       | Medium     | Solved |
 | offer 68-II | 二叉树的最近公共祖先                                      | 二叉树的最近公共祖先             | Easy       | Todo   |
 
