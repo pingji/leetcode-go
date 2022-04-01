@@ -1,4 +1,4 @@
-module github.com/jiping/leetcode-go
+module leetcode-go
 
 go 1.18
 
