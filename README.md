@@ -14,7 +14,7 @@ My solution to LeetCode problems using Golang
 |       27 | Remove Element                         | 移除元素                  | Easy       | Solved |
 |       75 | Sort Colors                            | 颜色分类                  | Medium     | Solved |
 |       80 | Remove Duplicates from Sorted Array II | 删除有序数组中的重复项 II | Medium     | Solved |
-|       88 | Merge Sorted Array                     | 合并两个有序数组          | Easy       | Solved  |
+|       88 | Merge Sorted Array                     | 合并两个有序数组          | Easy       | Solved |
 |      215 | Kth Largest Element in an Array        | 数组中的第K个最大元素     | Medium     | Todo   |
 |      217 | Contains Duplicate                     | 存在重复元素              | Easy       | Solved |
 |      283 | Move Zeroes                            | 移动零                    | Easy       | Solved |
@@ -101,7 +101,7 @@ My solution to LeetCode problems using Golang
 |       92 | Reverse Linked List II             | 反转链表 II              | Medium     | Solved |
 |      141 | Linked List Cycle                  | 环形链表                 | Easy       | Solved |
 |      143 | Reorder List                       | 重排链表                 | Medium     | Solved |
-|      147 | Insertion Sort List                | 对链表进行插入排序       | Medium     | Solved  |
+|      147 | Insertion Sort List                | 对链表进行插入排序       | Medium     | Solved |
 |      148 | Sort List                          | 排序链表                 | Medium     | Solved |
 |      203 | Remove Linked List Elements        | 移除链表元素             | Easy       | Solved |
 |      206 | Reverse Linked List                | 反转链表                 | Easy       | Solved |
@@ -155,6 +155,7 @@ My solution to LeetCode problems using Golang
 |        278 | First Bad Version                                       | 第一个错误的版本                           | Easy       | Solved |
 |        378 | Kth Smallest Element in a Sorted Matrix                 | 有序矩阵中第 K 小的元素                    | Medium     | Todo   |
 |        392 | Is Subsequence                                          | 判断子序列                                 | Easy       | Solved |
+|        475 | Heaters                                                 | 供暖器                                     | Medium     | Solved |
 |        704 | Binary Search                                           | 二分查找                                   | Easy       | Solved |
 |   offer 11 | 旋转数组的最小数字                                      | 旋转数组的最小数字                         | Easy       | Solved |
 | offer 68-I | 二叉搜索树的最近公共祖先                                | 二叉搜索树的最近公共祖先                   | Easy       | Todo   |
