@@ -52,6 +52,7 @@ My solution to LeetCode problems using Golang
 |      853 | Car Fleet          | 车队           | Medium     | Solved |
 |      912 | Sort an Array      | 排序数组       | Medium     | Solved |
 | offer 51 | 数组中的逆序对     | 数组中的逆序对 | Hard       | Solved |
+| interview 17.14 | 最小K个数     | 最小K个数 | Medium       | Solved |
 
 ## Topological Sort 拓扑排序
 
