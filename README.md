@@ -131,8 +131,8 @@ My solution to LeetCode problems using Golang
 |         144 | Binary Tree Preorder Traversal                            | 二叉树的前序遍历                 | Medium     | Solved |
 |         145 | Binary Tree Postorder Traversal                           | 二叉树的后序遍历                 | Medium     | Solved |
 |         226 | Invert Binary Tree                                        | 翻转二叉树                       | Easy       | Solved |
-|         236 | Lowest Common Ancestor of a Binary Tree                   | 二叉树的最近公共祖先             | Medium     | Solved  |
-|         297 | Serialize and Deserialize Binary Tree                  | 二叉树的序列化与反序列化             | Hard     | Todo   |
+|         236 | Lowest Common Ancestor of a Binary Tree                   | 二叉树的最近公共祖先             | Medium     | Solved |
+|         297 | Serialize and Deserialize Binary Tree                     | 二叉树的序列化与反序列化         | Hard       | Todo   |
 |    offer 07 | 重建二叉树                                                | 重建二叉树                       | Medium     | Solved |
 | offer 68-II | 二叉树的最近公共祖先                                      | 二叉树的最近公共祖先             | Easy       | Todo   |
 
@@ -196,6 +196,7 @@ My solution to LeetCode problems using Golang
 |      128 | Longest Consecutive Sequence                         | 最长连续序列                     | Medium     | Solved |
 |      349 | Intersection of Two Arrays                           | 两个数组的交集                   | Easy       | Solved |
 |      350 | Intersection of Two Arrays II                        | 两个数组的交集 II                | Easy       | Solved |
+|      451 | Sort Characters By Frequency                         | 根据字符出现频率排序             | Medium     | Solved  |
 |      454 | 4Sum II                                              | 四数相加 II                      | Medium     | Todo   |
 |      781 | Rabbits in Forest                                    | 森林中的兔子                     | Medium     | Solved |
 |     1178 | Number of Valid Words for Each Puzzle                | 猜字谜                           | Hard       | Todo   |
