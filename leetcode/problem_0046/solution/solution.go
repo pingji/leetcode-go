@@ -11,6 +11,7 @@ func permute(nums []int) [][]int {
 			tmp := make([]int, len(path))
 			copy(tmp, path)
 			res = append(res, tmp)
+			return
 		}
 		for index, num := range nums {
 			if !flags[index] {

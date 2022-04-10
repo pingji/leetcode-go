@@ -25,11 +25,14 @@ Explanation: There are three ways to climb to the top.
 ```
 ## Solutions
 ### Solution 1: Dynamic Programming
-第 ii 阶可以由以下两种方法得到：
+第 i 阶可以由以下两种方法得到：
 - 在第 (i-1)阶后向上爬1阶。
 - 在第 (i-2)阶后向上爬2阶。
 ```
-dp[0] = 1
-dp[1] = 2
+dp[1] = 1
+dp[2] = 2
 dp[i] = dp[i-2] +dp[i-1]
 ```
+
+### Solution 2: Dynamic Programming
+用「滚动数组思想」把空间复杂度优化成 O(1)
