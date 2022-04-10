@@ -36,11 +36,12 @@ My solution to LeetCode problems using Golang
 
 ## String 字符串
 
-|       No | Title                         | 题名               | Difficulty | Status |
-| -------: | ----------------------------- | ------------------ | ---------- | ------ |
-|        5 | Longest Palindromic Substring | 最长回文子串       | Medium     | Solved |
-|      151 | Reverse Words in a String     | 翻转字符串里的单词 | Medium     | Solved |
-| offer 05 | 替换空格                      | 替换空格           | Easy       | Solved |
+|       No | Title                         | 题名                  | Difficulty | Status |
+| -------: | ----------------------------- | --------------------- | ---------- | ------ |
+|        5 | Longest Palindromic Substring | 最长回文子串          | Medium     | Solved |
+|        8 | String to Integer (atoi)      | 字符串转换整数 (atoi) | Medium     | Todo   |
+|      151 | Reverse Words in a String     | 翻转字符串里的单词    | Medium     | Solved |
+| offer 05 | 替换空格                      | 替换空格              | Easy       | Solved |
 
 ## Sort 排序
 
