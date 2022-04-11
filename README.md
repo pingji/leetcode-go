@@ -64,6 +64,13 @@ My solution to LeetCode problems using Golang
 |  210 | Course Schedule II                  | 课程表 II            | Medium     | Solved |
 |  329 | Longest Increasing Path in a Matrix | 矩阵中的最长递增路径 | Hard       | Solved |
 
+## Bucket Sort 桶排序
+
+|   No | Title                        | 题名                 | Difficulty | Status |
+| ---: | ---------------------------- | -------------------- | ---------- | ------ |
+|  164 | Maximum Gap                  | 最大间距             | Hard       | Solved |
+|  451 | Sort Characters By Frequency | 根据字符出现频率排序 | Medium     | Solved |
+
 ## Two Pointers 双指针
 
 |   No | Title                              | 题名                       | Difficulty | Status |
