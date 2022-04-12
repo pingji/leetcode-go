@@ -14,6 +14,7 @@ My solution to LeetCode problems using Golang
 |       18 | 4Sum                                   | 四数之和                  | Medium     | Solved |
 |       26 | Remove Duplicates from Sorted Array    | 删除有序数组中的重复项    | Easy       | Solved |
 |       27 | Remove Element                         | 移除元素                  | Easy       | Solved |
+|       31 | Next Permutation                       | 下一个排列                | Medium     | Solved |
 |       75 | Sort Colors                            | 颜色分类                  | Medium     | Solved |
 |       80 | Remove Duplicates from Sorted Array II | 删除有序数组中的重复项 II | Medium     | Solved |
 |       88 | Merge Sorted Array                     | 合并两个有序数组          | Easy       | Solved |
