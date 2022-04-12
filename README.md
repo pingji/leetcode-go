@@ -265,8 +265,8 @@ My solution to LeetCode problems using Golang
 
 |   No | Title                                      | 题名                   | Difficulty | Status |
 | ---: | ------------------------------------------ | ---------------------- | ---------- | ------ |
-|   45 | Jump Game II                               | 跳跃游戏 II            | Medium     | Todo   |
-|   55 | Jump Game                                  | 跳跃游戏               | Medium     | Todo   |
+|   45 | Jump Game II                               | 跳跃游戏 II            | Medium     | Solved |
+|   55 | Jump Game                                  | 跳跃游戏               | Medium     | Solved |
 |  122 | Best Time to Buy and Sell Stock II         | 买卖股票的最佳时机 II  | Easy       | Solved |
 |  300 | Longest Increasing Subsequence             | 最长递增子序列         | Medium     | Solved |
 |  376 | Wiggle Subsequence                         | 摆动序列               | Medium     | Solved |
