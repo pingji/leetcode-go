@@ -181,6 +181,7 @@ My solution to LeetCode problems using Golang
 |   42 | Trapping Rain Water              | 接雨水           | hard       | Todo   |
 |   71 | Simplify Path                    | 简化路径         | Medium     | Solved |
 |  150 | Evaluate Reverse Polish Notation | 逆波兰表达式求值 | Medium     | Solved |
+|  155 | Min Stack                        | 最小栈           | Easy       | Solved |
 |  225 | Implement Stack using Queues     | 用队列实现栈     | Easy       | Solved |
 |  232 | Implement Queue using Stacks     | 用栈实现队列     | Easy       | Solved |
 |  224 | Basic Calculator                 | 基本计算器       | Hard       | Todo   |
