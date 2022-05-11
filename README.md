@@ -309,6 +309,7 @@ My solution to LeetCode problems using Golang
 |  421 | Maximum XOR of Two Numbers in an Array     | 数组中两个数的最大异或值      | Medium     | Solved |
 |  648 | Replace Words                              | 单词替换                      | Medium     | Todo   |
 |  677 | Map Sum Pairs                              | 键值映射                      | Medium     | Solved |
+|  720 | Longest Word in Dictionary                 | 词典中最长的单词              | Easy       | Solved |
 |  820 | Short Encoding of Words                    | 单词的压缩编码                | Medium     | Todo   |
 
 ## Design 设计
