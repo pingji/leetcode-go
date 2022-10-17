@@ -17,20 +17,20 @@ func TestProblem(t *testing.T) {
 		input  Input
 		output int
 	}{
-		// {
-		// 	input: Input{
-		// 		[]int{-1,2,1,-4},
-		// 		1,
-		// 	},
-		// 	output: 2,
-		// },
-		// {
-		// 	input: Input{
-		// 		[]int{0,0,0},
-		// 		1,
-		// 	},
-		// 	output: 0,
-		// },
+		{
+			input: Input{
+				[]int{-1, 2, 1, -4},
+				1,
+			},
+			output: 2,
+		},
+		{
+			input: Input{
+				[]int{0, 0, 0},
+				1,
+			},
+			output: 0,
+		},
 		{
 			input: Input{
 				[]int{1, 1, 1, 1},
