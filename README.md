@@ -164,7 +164,7 @@ My solution to LeetCode problems using Golang
 |        153 | Find Minimum in Rotated Sorted Array                    | 寻找旋转排序数组中的最小值                 | Medium     | Solved |
 |        154 | Find Minimum in Rotated Sorted Array II                 | 寻找旋转排序数组中的最小值 II              | Hard       | Solved |
 |        235 | Lowest Common Ancestor of a Binary Search Tree          | 二叉搜索树的最近公共祖先                   | Easy       | Todo   |
-|        270 | Closest Binary Search Tree Value                        | 最接近的二叉搜索树值                       | Easy       | Todo   |
+|        270 | Closest Binary Search Tree Value                        | 最接近的二叉搜索树值                       | Easy       | Solved |
 |        278 | First Bad Version                                       | 第一个错误的版本                           | Easy       | Solved |
 |        378 | Kth Smallest Element in a Sorted Matrix                 | 有序矩阵中第 K 小的元素                    | Medium     | Todo   |
 |        392 | Is Subsequence                                          | 判断子序列                                 | Easy       | Solved |
