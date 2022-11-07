@@ -23,6 +23,7 @@ My solution to LeetCode problems using Golang
 |      283 | Move Zeroes                            | 移动零                    | Easy       | Solved |
 |      347 | Top K Frequent Elements                | 前 K 个高频元素           | Medium     | Solved |
 | offer 04 | 二维数组中的查找                       | 二维数组中的查找          | Medium     | Solved |
+| offer 17 | 打印从1到最大的n位数                   | 打印从1到最大的n位数      | Easy       | Solved |
 
 ## Sliding Window 滑动窗口
 
