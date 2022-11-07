@@ -24,6 +24,7 @@ My solution to LeetCode problems using Golang
 |      347 | Top K Frequent Elements                | 前 K 个高频元素           | Medium     | Solved |
 | offer 04 | 二维数组中的查找                       | 二维数组中的查找          | Medium     | Solved |
 | offer 17 | 打印从1到最大的n位数                   | 打印从1到最大的n位数      | Easy       | Solved |
+| offer 29 | 顺时针打印矩阵                         | 顺时针打印矩阵            | Easy       | Solved |
 
 ## Sliding Window 滑动窗口
 
@@ -75,18 +76,19 @@ My solution to LeetCode problems using Golang
 
 ## Two Pointers 双指针
 
-|   No | Title                              | 题名                       | Difficulty | Status |
-| ---: | ---------------------------------- | -------------------------- | ---------- | ------ |
-|   20 | Valid Parentheses                  | 有效的括号                 | Easy       | Solved |
-|   42 | Trapping Rain Water                | 接雨水                     | hard       | Todo   |
-|  167 | Two Sum II - Input array is sorted | 两数之和 II - 输入有序数组 | Easy       | Solved |
-|  189 | Rotate Array                       | 旋转数组                   | Medium     | Solved |
-|  283 | Move Zeroes                        | 移动零                     | Easy       | Todo   |
-|  344 | Reverse String                     | 反转字符串                 | Easy       | Solved |
-|  392 | Is Subsequence                     | 判断子序列                 | Easy       | Solved |
-|  541 | Reverse String II                  | 反转字符串 II              | Easy       | Solved |
-|  557 | Reverse Words in a String III      | 反转字符串中的单词 III     | Easy       | Solved |
-|  977 | Squares of a Sorted Array          | 有序数组的平方             | Easy       | Solved |
+|       No | Title                              | 题名                           | Difficulty | Status |
+| -------: | ---------------------------------- | ------------------------------ | ---------- | ------ |
+|       20 | Valid Parentheses                  | 有效的括号                     | Easy       | Solved |
+|       42 | Trapping Rain Water                | 接雨水                         | hard       | Todo   |
+|      167 | Two Sum II - Input array is sorted | 两数之和 II - 输入有序数组     | Easy       | Solved |
+|      189 | Rotate Array                       | 旋转数组                       | Medium     | Solved |
+|      283 | Move Zeroes                        | 移动零                         | Easy       | Todo   |
+|      344 | Reverse String                     | 反转字符串                     | Easy       | Solved |
+|      392 | Is Subsequence                     | 判断子序列                     | Easy       | Solved |
+|      541 | Reverse String II                  | 反转字符串 II                  | Easy       | Solved |
+|      557 | Reverse Words in a String III      | 反转字符串中的单词 III         | Easy       | Solved |
+|      977 | Squares of a Sorted Array          | 有序数组的平方                 | Easy       | Solved |
+| offer 21 | 调整数组顺序使奇数位于偶数前面     | 调整数组顺序使奇数位于偶数前面 | Easy       | Solved |
 
 ## Prefix Sum 前缀和
 
