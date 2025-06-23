@@ -17,5 +17,8 @@ S(i,j)=min(h[i],h[j])×(j−i)
 3. 返回值： 返回面积最大值 res 即可；
 
 
+## Solution 2：优化的双指针
+还是双指针的实现，只是收窄的过程之不需要每次都计算面积，忽略那些高度比收窄前还要低的
+
 # References
 - [盛最多水的容器（双指针，清晰图解）](https://leetcode.cn/problems/container-with-most-water/solutions/11491/container-with-most-water-shuang-zhi-zhen-fa-yi-do/)
