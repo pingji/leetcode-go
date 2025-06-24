@@ -189,7 +189,7 @@ My solution to LeetCode problems using Golang
 |  227 | Basic Calculator II              | 基本计算器 II      | Medium     | Solved |           |
 |  394 | Decode String                    | 字符串解码         | Medium     | Todo   |           |
 |  496 | Next Greater Element I           | 下一个更大元素 I   | Easy       | Solved | Yes       |
-|  503 | Next Greater Element II          | 下一个更大元素 II  | Medium     | Todo   |           |
+|  503 | Next Greater Element II          | 下一个更大元素 II  | Medium     | Solved | Yes       |
 |  739 | Daily Temperatures               | 每日温度           | Medium     | Solved | Yes       |
 
 ## Heap 堆
