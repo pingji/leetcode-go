@@ -177,7 +177,7 @@ My solution to LeetCode problems using Golang
 
 |   No | Title                            | 题名               | Difficulty | Status | Revisited |
 | ---: | -------------------------------- | ------------------ | ---------- | ------ | --------- |
-|   20 | Valid Parentheses                | 有效的括号         | Easy       | Solved |           |
+|   20 | Valid Parentheses                | 有效的括号         | Easy       | Solved | Yes       |
 |   42 | Trapping Rain Water              | 接雨水             | Hard       | Solved | Yes       |
 |   71 | Simplify Path                    | 简化路径           | Medium     | Solved |           |
 |   84 | Largest Rectangle in Histogram   | 柱状图中最大的矩形 | Hard       | Todo   |           |
