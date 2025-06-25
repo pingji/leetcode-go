@@ -6,9 +6,9 @@ My solution to LeetCode problems using Golang
 
 |       No | Title                                  | 题名                      | Difficulty | Status | Revisited |
 | -------: | -------------------------------------- | ------------------------- | ---------- | ------ | --------- |
-|       15 | 3Sum                                   | 三数之和                  | Medium     | Solved |           |
-|       16 | 3Sum Closest                           | 最接近的三数之和          | Medium     | Solved |           |
-|       18 | 4Sum                                   | 四数之和                  | Medium     | Solved |           |
+|       15 | 3Sum                                   | 三数之和                  | Medium     | Solved | Yes       |
+|       16 | 3Sum Closest                           | 最接近的三数之和          | Medium     | Solved | Yes       |
+|       18 | 4Sum                                   | 四数之和                  | Medium     | Solved | Yes       |
 |       26 | Remove Duplicates from Sorted Array    | 删除有序数组中的重复项    | Easy       | Solved |           |
 |       27 | Remove Element                         | 移除元素                  | Easy       | Solved |           |
 |       31 | Next Permutation                       | 下一个排列                | Medium     | Solved |           |
@@ -206,7 +206,7 @@ My solution to LeetCode problems using Golang
 
 |       No | Title                                                | 题名                             | Difficulty | Status | Revisited |
 | -------: | ---------------------------------------------------- | -------------------------------- | ---------- | ------ | --------- |
-|        1 | Two Sum                                              | 两数之和                         | Easy       | Solved |           |
+|        1 | Two Sum                                              | 两数之和                         | Easy       | Solved | Yes       |
 |       13 | Roman to Integer                                     | 罗马数字转整数                   | Easy       | Solved |           |
 |       41 | First Missing Positive                               | 缺失的第一个正数                 | Hard       | Solved |           |
 |      128 | Longest Consecutive Sequence                         | 最长连续序列                     | Medium     | Solved |           |
