@@ -27,7 +27,7 @@ My solution to LeetCode problems using Golang
 
 |         No | Title                                          | 题名                       | Difficulty | Status | Revisited |
 | ---------: | ---------------------------------------------- | -------------------------- | ---------- | ------ | --------- |
-|          3 | Longest Substring Without Repeating Characters | 无重复字符的最长子串       | Medium     | Solved |           |
+|          3 | Longest Substring Without Repeating Characters | 无重复字符的最长子串       | Medium     | Solved | Yes       |
 |         76 | Minimum Window Substring                       | 最小覆盖子串               | Hard       | Solved |           |
 |        239 | Sliding Window Maximum                         | 滑动窗口最大值             | Hard       | Solved |           |
 |        424 | Longest Repeating Character Replacement        | 替换后的最长重复字符       | Hard       | Solved |           |
