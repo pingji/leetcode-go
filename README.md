@@ -10,12 +10,11 @@ My solution to LeetCode problems using Golang
 |       16 | 3Sum Closest                           | 最接近的三数之和          | Medium     | Solved | Yes       |
 |       18 | 4Sum                                   | 四数之和                  | Medium     | Solved | Yes       |
 |       26 | Remove Duplicates from Sorted Array    | 删除有序数组中的重复项    | Easy       | Solved | Yes       |
-|       27 | Remove Element                         | 移除元素                  | Easy       | Solved |           |
-|       31 | Next Permutation                       | 下一个排列                | Medium     | Solved |           |
+|       27 | Remove Element                         | 移除元素                  | Easy       | Solved | Yes       |
+|       31 | Next Permutation                       | 下一个排列                | Medium     | Solved | Yes       |
 |       75 | Sort Colors                            | 颜色分类                  | Medium     | Solved |           |
 |       80 | Remove Duplicates from Sorted Array II | 删除有序数组中的重复项 II | Medium     | Solved |           |
 |       88 | Merge Sorted Array                     | 合并两个有序数组          | Easy       | Solved |           |
-|      215 | Kth Largest Element in an Array        | 数组中的第K个最大元素     | Medium     | Todo   |           |
 |      217 | Contains Duplicate                     | 存在重复元素              | Easy       | Solved |           |
 |      283 | Move Zeroes                            | 移动零                    | Easy       | Solved |           |
 |      347 | Top K Frequent Elements                | 前 K 个高频元素           | Medium     | Solved |           |
@@ -45,16 +44,17 @@ My solution to LeetCode problems using Golang
 
 ## Sort 排序
 
-|              No | Title              | 题名           | Difficulty | Status | Revisited |
-| --------------: | ------------------ | -------------- | ---------- | ------ | --------- |
-|              56 | Merge Intervals    | 合并区间       | Medium     | Solved |           |
-|             148 | Sort List          | 排序链表       | Medium     | Solved |           |
-|             179 | Largest Number     | 最大数         | Medium     | Solved |           |
-|             327 | Count of Range Sum | 区间和的个数   | Medium     | Solved |           |
-|             853 | Car Fleet          | 车队           | Medium     | Solved |           |
-|             912 | Sort an Array      | 排序数组       | Medium     | Solved |           |
-|        offer 51 | 数组中的逆序对     | 数组中的逆序对 | Hard       | Solved |           |
-| interview 17.14 | 最小K个数          | 最小K个数      | Medium     | Solved |           |
+|              No | Title                           | 题名                  | Difficulty | Status | Revisited |
+| --------------: | ------------------------------- | --------------------- | ---------- | ------ | --------- |
+|              56 | Merge Intervals                 | 合并区间              | Medium     | Solved |           |
+|             148 | Sort List                       | 排序链表              | Medium     | Solved |           |
+|             179 | Largest Number                  | 最大数                | Medium     | Solved |           |
+|             215 | Kth Largest Element in an Array | 数组中的第K个最大元素 | Medium     | Solved |           |
+|             327 | Count of Range Sum              | 区间和的个数          | Medium     | Solved |           |
+|             853 | Car Fleet                       | 车队                  | Medium     | Solved |           |
+|             912 | Sort an Array                   | 排序数组              | Medium     | Solved |           |
+|        offer 51 | 数组中的逆序对                  | 数组中的逆序对        | Hard       | Solved |           |
+| interview 17.14 | 最小K个数                       | 最小K个数             | Medium     | Solved |           |
 
 ## Topological Sort 拓扑排序
 
@@ -196,7 +196,7 @@ My solution to LeetCode problems using Golang
 
 |       No | Title                           | 题名                  | Difficulty | Status | Revisited |
 | -------: | ------------------------------- | --------------------- | ---------- | ------ | --------- |
-|      215 | Kth Largest Element in an Array | 数组中的第K个最大元素 | Medium     | Solved |           |
+|      215 | Kth Largest Element in an Array | 数组中的第K个最大元素 | Medium     | Todo   |           |
 |      692 | Top K Frequent Words            | 前K个高频单词         | Medium     | Solved |           |
 |      703 | Kth Largest Element in a Stream | 数据流中的第 K 大元素 | Easy       | Solved |           |
 |     1046 | Last Stone Weight               | 最后一块石头的重量    | Easy       | Todo   |           |
