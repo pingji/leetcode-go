@@ -46,7 +46,7 @@ My solution to LeetCode problems using Golang
 
 |              No | Title                           | 题名                  | Difficulty | Status | Revisited |
 | --------------: | ------------------------------- | --------------------- | ---------- | ------ | --------- |
-|              56 | Merge Intervals                 | 合并区间              | Medium     | Solved |           |
+|              56 | Merge Intervals                 | 合并区间              | Medium     | Solved | Yes       |
 |             148 | Sort List                       | 排序链表              | Medium     | Solved |           |
 |             179 | Largest Number                  | 最大数                | Medium     | Solved |           |
 |             215 | Kth Largest Element in an Array | 数组中的第K个最大元素 | Medium     | Solved |           |
