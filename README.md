@@ -47,7 +47,7 @@ My solution to LeetCode problems using Golang
 |              No | Title                           | 题名                  | Difficulty | Status | Revisited |
 | --------------: | ------------------------------- | --------------------- | ---------- | ------ | --------- |
 |              56 | Merge Intervals                 | 合并区间              | Medium     | Solved | Yes       |
-|             148 | Sort List                       | 排序链表              | Medium     | Solved |           |
+|             148 | Sort List                       | 排序链表              | Medium     | Solved | Yes       |
 |             179 | Largest Number                  | 最大数                | Medium     | Solved | Yes       |
 |             215 | Kth Largest Element in an Array | 数组中的第K个最大元素 | Medium     | Solved |           |
 |             327 | Count of Range Sum              | 区间和的个数          | Medium     | Solved |           |
@@ -113,7 +113,7 @@ My solution to LeetCode problems using Golang
 |       92 | Reverse Linked List II             | 反转链表 II              | Medium     | Solved |           |
 |      141 | Linked List Cycle                  | 环形链表                 | Easy       | Solved |           |
 |      143 | Reorder List                       | 重排链表                 | Medium     | Solved |           |
-|      147 | Insertion Sort List                | 对链表进行插入排序       | Medium     | Solved |           |
+|      147 | Insertion Sort List                | 对链表进行插入排序       | Medium     | Solved | Yes       |
 |      148 | Sort List                          | 排序链表                 | Medium     | Solved |           |
 |      203 | Remove Linked List Elements        | 移除链表元素             | Easy       | Solved |           |
 |      206 | Reverse Linked List                | 反转链表                 | Easy       | Solved |           |
