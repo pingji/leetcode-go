@@ -50,7 +50,7 @@ My solution to LeetCode problems using Golang
 |             148 | Sort List                       | 排序链表              | Medium     | Solved | Yes       |
 |             179 | Largest Number                  | 最大数                | Medium     | Solved | Yes       |
 |             215 | Kth Largest Element in an Array | 数组中的第K个最大元素 | Medium     | Solved | Yes       |
-|             327 | Count of Range Sum              | 区间和的个数          | Medium     | Solved |           |
+|             327 | Count of Range Sum              | 区间和的个数          | Hard       | Solved | Yes       |
 |             853 | Car Fleet                       | 车队                  | Medium     | Solved |           |
 |             912 | Sort an Array                   | 排序数组              | Medium     | Solved |           |
 |        offer 51 | 数组中的逆序对                  | 数组中的逆序对        | Hard       | Solved |           |
