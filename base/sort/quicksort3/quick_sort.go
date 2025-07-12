@@ -2,7 +2,6 @@ package quicksort3
 
 import (
 	"math/rand"
-	// "time"
 )
 
 // partition 三路分区函数，将数组分为三部分：小于、等于、大于基准元素
@@ -20,9 +19,8 @@ func partition(nums []int, l int, r int) (int, int) {
 	// 三路分区：
 	// [l+1, lt] 区间存储小于基准元素的数
 	// [lt+1, i) 区间存储等于基准元素的数
-	// [gt, r] 区间存储大于基准元素的数
 	// [i, gt) 区间是待处理的元素
-
+	// [gt, r] 区间存储大于基准元素的数
 	lt := l     // 小于区间的右边界
 	gt := r + 1 // 大于区间的左边界
 	i := l + 1  // 当前处理的位置

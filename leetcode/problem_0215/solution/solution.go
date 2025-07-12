@@ -2,7 +2,7 @@ package solution
 
 import (
 	"math/rand"
-	"time"
+	// "time"
 )
 
 func partion(nums []int, l int, r int) int {
@@ -44,6 +44,6 @@ func quickSearch(nums []int, l int, r int, k int) int {
 }
 
 func findKthLargest(nums []int, k int) int {
-	rand.Seed(time.Now().UnixNano())
+	// rand.Seed(time.Now().UnixNano())
 	return quickSearch(nums, 0, len(nums)-1, k-1)
 }
