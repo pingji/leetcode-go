@@ -62,8 +62,8 @@ My solution to LeetCode problems using Golang
 | ---: | ----------------------------------- | -------------------- | ---------- | ------ | --------- |
 |  207 | Course Schedule                     | 课程表               | Medium     | Solved | Yes       |
 |  210 | Course Schedule II                  | 课程表 II            | Medium     | Solved | Yes       |
-|  310 | Minimum Height Trees                | 最小高度树           | Medium     |        |           |
-|  329 | Longest Increasing Path in a Matrix | 矩阵中的最长递增路径 | Hard       | Solved |           |
+|  310 | Minimum Height Trees                | 最小高度树           | Medium     | Todo   |           |
+|  329 | Longest Increasing Path in a Matrix | 矩阵中的最长递增路径 | Hard       | Solved | Yes       |
 
 ## Bucket Sort 桶排序
 
