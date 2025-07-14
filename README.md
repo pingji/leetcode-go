@@ -227,9 +227,9 @@ My solution to LeetCode problems using Golang
 |  200 | Number of Islands                   | 岛屿数量             | Easy       | Solved | Yes       |
 |  310 | Minimum Height Trees                | 最小高度树           | Medium     | Todo   |           |
 |  329 | Longest Increasing Path in a Matrix | 矩阵中的最长递增路径 | Hard       | Solved | Yes       |
-|  463 | Island Perimeter                    | 岛屿的周长           | Easy       | Solved   |  Yes         |
+|  463 | Island Perimeter                    | 岛屿的周长           | Easy       | Solved | Yes       |
 |  547 | Number of Provinces                 | 省份数量             | Medium     | Solved |           |
-|  695 | Max Area of Island                  | 岛屿的最大面积       | Medium     | Solved |           |
+|  695 | Max Area of Island                  | 岛屿的最大面积       | Medium     | Solved | Yes       |
 |  815 | Bus Routes                          | 公交路线             | Hard       | Solved |           |
 |  827 | Making A Large Island               | 最大人工岛           | Hard       | Todo   |           |
 
