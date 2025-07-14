@@ -18,7 +18,7 @@ def backtrack(路径, 选择列表):
 
 ```mermaid
 graph TB
-    root[ ] --> Node11[1]
+    root[1,2,3] --> Node11[1]
     root --> Node12[2]
     root --> Node13[3]
     Node11 --> Node21[2]
