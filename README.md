@@ -292,14 +292,16 @@ My solution to LeetCode problems using Golang
 |       17 | Letter Combinations of a Phone Number | 电话号码的字母组合     | Medium     | Solved |           |
 |       22 | Generate Parentheses                  | 括号生成               | Medium     | Solved |           |
 |       37 | Sudoku Solver                         | 解数独                 | Hard       | Solved |           |
-|       46 | Permutations                          | 全排列                 | Medium     | Solved |           |
-|       47 | Permutations II                       | 全排列 II              | Medium     | Solved |           |
+|       39 | Combination Sum                       | 组合总和               | Medium     | Todo   |           |
+|       40 | Combination Sum II                    | 组合总和 II            | Medium     | Todo   |           |
+|       46 | Permutations                          | 全排列                 | Medium     | Solved | Yes       |
+|       47 | Permutations II                       | 全排列 II              | Medium     | Solved | Yes       |
 |       51 | N-Queens                              | N 皇后                 | Hard       | Solved |           |
 |       52 | N-Queens II                           | N 皇后 II              | Hard       | Solved |           |
-|       77 | Combinations                          | 组合                   | Medium     | Solved |           |
-|       78 | Subsets                               | 子集                   | Medium     | Solved |           |
+|       77 | Combinations                          | 组合                   | Medium     | Solved | Yes       |
+|       78 | Subsets                               | 子集                   | Medium     | Solved | Yes       |
 |       79 | Word Search                           | 单词搜索               | Medium     | Todo   |           |
-|       90 | Subsets II                            | 子集 II                | Medium     | Solved |           |
+|       90 | Subsets II                            | 子集 II                | Medium     | Solved | Yes       |
 |       93 | Restore IP Addresses                  | 复原 IP 地址           | Medium     | Todo   |           |
 |      131 | Palindrome Partitioning               | 分割回文串             | Medium     | Todo   |           |
 | offer 12 | 矩阵中的路径                          | 矩阵中的路径           | Medium     | Todo   |           |
