@@ -296,8 +296,8 @@ My solution to LeetCode problems using Golang
 |       40 | Combination Sum II                    | 组合总和 II            | Medium     | Todo   |           |
 |       46 | Permutations                          | 全排列                 | Medium     | Solved | Yes       |
 |       47 | Permutations II                       | 全排列 II              | Medium     | Solved | Yes       |
-|       51 | N-Queens                              | N 皇后                 | Hard       | Solved |           |
-|       52 | N-Queens II                           | N 皇后 II              | Hard       | Solved |           |
+|       51 | N-Queens                              | N 皇后                 | Hard       | Solved | Yes       |
+|       52 | N-Queens II                           | N 皇后 II              | Hard       | Solved | Yes       |
 |       77 | Combinations                          | 组合                   | Medium     | Solved | Yes       |
 |       78 | Subsets                               | 子集                   | Medium     | Solved | Yes       |
 |       79 | Word Search                           | 单词搜索               | Medium     | Todo   |           |

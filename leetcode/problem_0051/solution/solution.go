@@ -2,27 +2,33 @@ package solution
 
 import "strings"
 
+// isVaild 检查在指定位置放置皇后是否有效
+// row: 当前行
+// col: 当前列
+// n: 棋盘大小
+// path: 当前棋盘状态
 func isVaild(row int, col int, n int, path [][]string) bool {
 	i := 0
+	// 检查上方所有行是否有冲突
 	for ; i < row; i++ {
 		for j := 0; j < n; j++ {
-			// top left \
+			// 检查左上对角线 \ (斜率为-1)
 			if j == col-(row-i) && path[i][j] == "Q" {
 				return false
 			}
-			// top right /
+			// 检查右上对角线 / (斜率为1)
 			if j == col+(row-i) && path[i][j] == "Q" {
 				return false
 			}
-			// column
+			// 检查同一列
 			if j == col && path[i][j] == "Q" {
 				return false
 			}
 		}
 	}
-	// i == row
+	// 检查当前行的左侧是否有皇后
 	for j := 0; j <= col; j++ {
-		// row
+		// 检查同一行
 		if path[i][j] == "Q" {
 			return false
 		}
@@ -30,8 +36,12 @@ func isVaild(row int, col int, n int, path [][]string) bool {
 	return true
 }
 
+// solveNQueens 解决N皇后问题
+// 返回所有可能的解，每个解是一个字符串数组，表示棋盘状态
 func solveNQueens(n int) [][]string {
-	var res = [][]string{}
+	var res = [][]string{} // 存储所有解
+
+	// 初始化棋盘，所有位置都设为"."
 	path := make([][]string, n)
 	for i := range path {
 		path[i] = make([]string, n)
@@ -39,9 +49,13 @@ func solveNQueens(n int) [][]string {
 			path[i][j] = "."
 		}
 	}
+
+	// 回溯函数，逐行放置皇后
 	var backtrack func(int)
 	backtrack = func(row int) {
+		// 如果已经放置了n个皇后，说明找到一个解
 		if row == n {
+			// 将棋盘转换为字符串数组
 			tmp := make([]string, n)
 			for i := range path {
 				tmp[i] = strings.Join(path[i], "")
@@ -49,17 +63,26 @@ func solveNQueens(n int) [][]string {
 			res = append(res, tmp)
 			return
 		}
+
+		// 在当前行的每一列尝试放置皇后
 		for col := 0; col < n; col++ {
+			// 检查当前位置是否可以放置皇后
 			if !isVaild(row, col, n, path) {
 				continue
 			}
+
+			// 放置皇后
 			path[row][col] = "Q"
 
+			// 递归处理下一行
 			backtrack(row + 1)
 
+			// 回溯：移除皇后，尝试下一个位置
 			path[row][col] = "."
 		}
 	}
+
+	// 从第0行开始回溯
 	backtrack(0)
 
 	return res
